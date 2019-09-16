@@ -102,7 +102,7 @@ df <- kegg_path %>%
 secondaryBileAcidKNumbers <- df$Ortholog
 ```
 
-`r nrow(df)` genes are associated with secondary bile acid biosysthesis
+`r nrow(df)` genes are associated with secondary bile acid biosythesis
 
 ```{r}
 pander(df, split.tables = Inf, split.cells = Inf)
