@@ -1,0 +1,1369 @@
+RunSampleID	PathwayName	wtSum
+USDA_RUN12_D12.BAF	2-Oxocarboxylic acid metabolism	502.6545815295815
+USDA_RUN12_D12.BAF	ABC transporters	17199.333333333332
+USDA_RUN12_D12.BAF	Alanine, aspartate and glutamate metabolism	977.4448773448773
+USDA_RUN12_D12.BAF	Amino sugar and nucleotide sugar metabolism	1450.7
+USDA_RUN12_D12.BAF	Aminoacyl-tRNA biosynthesis	3719.9
+USDA_RUN12_D12.BAF	Aminobenzoate degradation	161.07301587301586
+USDA_RUN12_D12.BAF	Arginine and proline metabolism	1258.85
+USDA_RUN12_D12.BAF	Arginine biosynthesis	253.7317821067821
+USDA_RUN12_D12.BAF	Ascorbate and aldarate metabolism	688.0833333333334
+USDA_RUN12_D12.BAF	Atrazine degradation	29.466666666666665
+USDA_RUN12_D12.BAF	Bacterial chemotaxis	354
+USDA_RUN12_D12.BAF	Bacterial secretion system	1592.6666666666665
+USDA_RUN12_D12.BAF	Base excision repair	660.3095238095239
+USDA_RUN12_D12.BAF	Benzoate degradation	423.0376178860699
+USDA_RUN12_D12.BAF	beta-Alanine metabolism	199.57385620915034
+USDA_RUN12_D12.BAF	beta-Lactam resistance	1650.8333333333333
+USDA_RUN12_D12.BAF	Biofilm formation - Escherichia coli	2593.475
+USDA_RUN12_D12.BAF	Biofilm formation - Pseudomonas aeruginosa	870.075
+USDA_RUN12_D12.BAF	Biofilm formation - Vibrio cholerae	1028.95
+USDA_RUN12_D12.BAF	Biosynthesis of amino acids	2189.37215007215
+USDA_RUN12_D12.BAF	Biosynthesis of antibiotics	3674.603037188989
+USDA_RUN12_D12.BAF	Biosynthesis of secondary metabolites	6127.225656236608
+USDA_RUN12_D12.BAF	Biosynthesis of siderophore group nonribosomal peptides	1403.8666666666666
+USDA_RUN12_D12.BAF	Biotin metabolism	481.5
+USDA_RUN12_D12.BAF	Butanoate metabolism	658.8801503536024
+USDA_RUN12_D12.BAF	C5-Branched dibasic acid metabolism	218.57142857142856
+USDA_RUN12_D12.BAF	Caprolactam degradation	19.140522875816995
+USDA_RUN12_D12.BAF	Carbon fixation in photosynthetic organisms	338.3022366522367
+USDA_RUN12_D12.BAF	Carbon fixation pathways in prokaryotes	402.8341079972659
+USDA_RUN12_D12.BAF	Carbon metabolism	1713.5988164097685
+USDA_RUN12_D12.BAF	Cationic antimicrobial peptide (CAMP) resistance	1958.25
+USDA_RUN12_D12.BAF	Cell cycle - Caulobacter	1074.75
+USDA_RUN12_D12.BAF	Chloroalkane and chloroalkene degradation	49.354166666666664
+USDA_RUN12_D12.BAF	Citrate cycle (TCA cycle)	419.4515512265512
+USDA_RUN12_D12.BAF	Cyanoamino acid metabolism	176.86666666666667
+USDA_RUN12_D12.BAF	Cysteine and methionine metabolism	1010.1813492063492
+USDA_RUN12_D12.BAF	D-Alanine metabolism	98.41666666666666
+USDA_RUN12_D12.BAF	D-Glutamine and D-glutamate metabolism	133.27777777777777
+USDA_RUN12_D12.BAF	DNA replication	702.6428571428571
+USDA_RUN12_D12.BAF	Drug metabolism - other enzymes	304.1706349206349
+USDA_RUN12_D12.BAF	Fatty acid biosynthesis	233.4
+USDA_RUN12_D12.BAF	Fatty acid degradation	251.06797502892704
+USDA_RUN12_D12.BAF	Fatty acid metabolism	342.76380836226036
+USDA_RUN12_D12.BAF	Fluorobenzoate degradation	70.91428571428571
+USDA_RUN12_D12.BAF	Folate biosynthesis	661.9666666666667
+USDA_RUN12_D12.BAF	Fructose and mannose metabolism	1327.221645021645
+USDA_RUN12_D12.BAF	Galactose metabolism	1167.4757575757576
+USDA_RUN12_D12.BAF	Geraniol degradation	36.50415923945336
+USDA_RUN12_D12.BAF	Glutathione metabolism	763.3033189033189
+USDA_RUN12_D12.BAF	Glycerolipid metabolism	725.1738095238095
+USDA_RUN12_D12.BAF	Glycerophospholipid metabolism	1143
+USDA_RUN12_D12.BAF	Glycine, serine and threonine metabolism	1076.5601731601732
+USDA_RUN12_D12.BAF	Glycolysis / Gluconeogenesis	1279.2402417027417
+USDA_RUN12_D12.BAF	Glycosaminoglycan degradation	16
+USDA_RUN12_D12.BAF	Glyoxylate and dicarboxylate metabolism	665.9070850202429
+USDA_RUN12_D12.BAF	Histidine metabolism	670.7
+USDA_RUN12_D12.BAF	Homologous recombination	1732.3095238095239
+USDA_RUN12_D12.BAF	Limonene and pinene degradation	19.140522875816995
+USDA_RUN12_D12.BAF	Lipoic acid metabolism	101.5
+USDA_RUN12_D12.BAF	Lipopolysaccharide biosynthesis	939.3333333333334
+USDA_RUN12_D12.BAF	Lysine biosynthesis	276.4111111111111
+USDA_RUN12_D12.BAF	Lysine degradation	456.26207676052877
+USDA_RUN12_D12.BAF	Metabolic pathways	22803.38381196976
+USDA_RUN12_D12.BAF	Methane metabolism	473.71881313131314
+USDA_RUN12_D12.BAF	Microbial metabolism in diverse environments	6030.020319906272
+USDA_RUN12_D12.BAF	Mismatch repair	1281.1666666666667
+USDA_RUN12_D12.BAF	Monobactam biosynthesis	133.9111111111111
+USDA_RUN12_D12.BAF	Nicotinate and nicotinamide metabolism	676.4761904761905
+USDA_RUN12_D12.BAF	Nitrogen metabolism	1261.275036075036
+USDA_RUN12_D12.BAF	Nitrotoluene degradation	79
+USDA_RUN12_D12.BAF	Novobiocin biosynthesis	39.7
+USDA_RUN12_D12.BAF	One carbon pool by folate	302.09999999999997
+USDA_RUN12_D12.BAF	Other glycan degradation	149.33333333333334
+USDA_RUN12_D12.BAF	Oxidative phosphorylation	1757.2454545454545
+USDA_RUN12_D12.BAF	Pantothenate and CoA biosynthesis	525.0126984126985
+USDA_RUN12_D12.BAF	Pentose and glucuronate interconversions	1403.888888888889
+USDA_RUN12_D12.BAF	Pentose phosphate pathway	883.017784992785
+USDA_RUN12_D12.BAF	Peptidoglycan biosynthesis	1360.8333333333333
+USDA_RUN12_D12.BAF	Phenylalanine metabolism	726.443253968254
+USDA_RUN12_D12.BAF	Phenylalanine, tyrosine and tryptophan biosynthesis	336.7583333333333
+USDA_RUN12_D12.BAF	Phosphonate and phosphinate metabolism	645.1666666666666
+USDA_RUN12_D12.BAF	Phosphotransferase system (PTS)	2655.1666666666665
+USDA_RUN12_D12.BAF	Porphyrin and chlorophyll metabolism	1251.6833333333334
+USDA_RUN12_D12.BAF	Propanoate metabolism	1288.9370406854928
+USDA_RUN12_D12.BAF	Protein export	698
+USDA_RUN12_D12.BAF	Proximal tubule bicarbonate reclamation	12.11111111111111
+USDA_RUN12_D12.BAF	Purine metabolism	3874.2465367965365
+USDA_RUN12_D12.BAF	Pyrimidine metabolism	2331.085714285714
+USDA_RUN12_D12.BAF	Pyruvate metabolism	1372.6612724994304
+USDA_RUN12_D12.BAF	Quorum sensing	4155.391666666666
+USDA_RUN12_D12.BAF	Riboflavin metabolism	241.6
+USDA_RUN12_D12.BAF	Ribosome	3133
+USDA_RUN12_D12.BAF	RNA degradation	1795.5
+USDA_RUN12_D12.BAF	Selenocompound metabolism	673.3285714285714
+USDA_RUN12_D12.BAF	Starch and sucrose metabolism	3061.0916666666667
+USDA_RUN12_D12.BAF	Streptomycin biosynthesis	203.43333333333334
+USDA_RUN12_D12.BAF	Styrene degradation	56.550000000000004
+USDA_RUN12_D12.BAF	Sulfur metabolism	1242.070238095238
+USDA_RUN12_D12.BAF	Sulfur relay system	520.6
+USDA_RUN12_D12.BAF	Synthesis and degradation of ketone bodies	42.526315789473685
+USDA_RUN12_D12.BAF	Taurine and hypotaurine metabolism	148.70833333333334
+USDA_RUN12_D12.BAF	Terpenoid backbone biosynthesis	269.9763157894737
+USDA_RUN12_D12.BAF	Thiamine metabolism	521.7166666666667
+USDA_RUN12_D12.BAF	Tropane, piperidine and pyridine alkaloid biosynthesis	178.15833333333333
+USDA_RUN12_D12.BAF	Tryptophan metabolism	131.38927456272657
+USDA_RUN12_D12.BAF	Two-component system	10363.612679425838
+USDA_RUN12_D12.BAF	Tyrosine metabolism	409.9910714285714
+USDA_RUN12_D12.BAF	Ubiquinone and other terpenoid-quinone biosynthesis	492.54523809523806
+USDA_RUN12_D12.BAF	Valine, leucine and isoleucine biosynthesis	354.59722222222223
+USDA_RUN12_D12.BAF	Valine, leucine and isoleucine degradation	149.79436391781593
+USDA_RUN12_D12.BAF	Vancomycin resistance	179.33333333333331
+USDA_RUN12_D12.BAF	Vitamin B6 metabolism	251.95833333333334
+USDA_RUN12_D12.BAF	Xylene degradation	62.357142857142854
+USDA_RUN12_D12.BAF	NA	NA
+USDA_RUN12_D13.BAF	2-Oxocarboxylic acid metabolism	868.480303030303
+USDA_RUN12_D13.BAF	ABC transporters	31143
+USDA_RUN12_D13.BAF	Alanine, aspartate and glutamate metabolism	1751.756277056277
+USDA_RUN12_D13.BAF	Amino sugar and nucleotide sugar metabolism	2575.571212121212
+USDA_RUN12_D13.BAF	Aminoacyl-tRNA biosynthesis	6480.4
+USDA_RUN12_D13.BAF	Aminobenzoate degradation	291.9111111111111
+USDA_RUN12_D13.BAF	Arginine and proline metabolism	2403.45
+USDA_RUN12_D13.BAF	Arginine biosynthesis	459.0205627705628
+USDA_RUN12_D13.BAF	Ascorbate and aldarate metabolism	1161.25
+USDA_RUN12_D13.BAF	Atrazine degradation	60.4
+USDA_RUN12_D13.BAF	Bacterial chemotaxis	644.5
+USDA_RUN12_D13.BAF	Bacterial secretion system	2805.833333333333
+USDA_RUN12_D13.BAF	Base excision repair	1241.5
+USDA_RUN12_D13.BAF	Benzoate degradation	762.0823857772774
+USDA_RUN12_D13.BAF	beta-Alanine metabolism	345.13316993464053
+USDA_RUN12_D13.BAF	beta-Lactam resistance	2937.5
+USDA_RUN12_D13.BAF	Biofilm formation - Escherichia coli	4661.316666666667
+USDA_RUN12_D13.BAF	Biofilm formation - Pseudomonas aeruginosa	1595.225
+USDA_RUN12_D13.BAF	Biofilm formation - Vibrio cholerae	1702.3916666666667
+USDA_RUN12_D13.BAF	Biosynthesis of amino acids	3902.5532467532466
+USDA_RUN12_D13.BAF	Biosynthesis of antibiotics	6610.5126957450875
+USDA_RUN12_D13.BAF	Biosynthesis of secondary metabolites	10971.930156062548
+USDA_RUN12_D13.BAF	Biosynthesis of siderophore group nonribosomal peptides	1437.8666666666666
+USDA_RUN12_D13.BAF	Biotin metabolism	938.6666666666666
+USDA_RUN12_D13.BAF	Butanoate metabolism	1174.6337927036843
+USDA_RUN12_D13.BAF	C5-Branched dibasic acid metabolism	377.57142857142856
+USDA_RUN12_D13.BAF	Caprolactam degradation	37.25816993464052
+USDA_RUN12_D13.BAF	Carbon fixation in photosynthetic organisms	614.0296176046176
+USDA_RUN12_D13.BAF	Carbon fixation pathways in prokaryotes	725.4833789017999
+USDA_RUN12_D13.BAF	Carbon metabolism	3016.2500750324666
+USDA_RUN12_D13.BAF	Cationic antimicrobial peptide (CAMP) resistance	3624.4166666666665
+USDA_RUN12_D13.BAF	Cell cycle - Caulobacter	1894.25
+USDA_RUN12_D13.BAF	Chloroalkane and chloroalkene degradation	82.89903846153847
+USDA_RUN12_D13.BAF	Citrate cycle (TCA cycle)	723.7695526695527
+USDA_RUN12_D13.BAF	Cyanoamino acid metabolism	298.48333333333335
+USDA_RUN12_D13.BAF	Cysteine and methionine metabolism	1821.9414502164502
+USDA_RUN12_D13.BAF	D-Alanine metabolism	169.08333333333331
+USDA_RUN12_D13.BAF	D-Glutamine and D-glutamate metabolism	249.33333333333331
+USDA_RUN12_D13.BAF	DNA replication	1156.3333333333333
+USDA_RUN12_D13.BAF	Drug metabolism - other enzymes	516.3928571428571
+USDA_RUN12_D13.BAF	Fatty acid biosynthesis	397.3333333333333
+USDA_RUN12_D13.BAF	Fatty acid degradation	458.6258686832603
+USDA_RUN12_D13.BAF	Fatty acid metabolism	599.5101635550552
+USDA_RUN12_D13.BAF	Fluorobenzoate degradation	116.46666666666665
+USDA_RUN12_D13.BAF	Folate biosynthesis	1200.2166666666667
+USDA_RUN12_D13.BAF	Fructose and mannose metabolism	2342.686147186147
+USDA_RUN12_D13.BAF	Galactose metabolism	2089.854329004329
+USDA_RUN12_D13.BAF	Geraniol degradation	72.43998811645871
+USDA_RUN12_D13.BAF	Glutathione metabolism	1435.6359307359307
+USDA_RUN12_D13.BAF	Glycerolipid metabolism	1376.711111111111
+USDA_RUN12_D13.BAF	Glycerophospholipid metabolism	2144.0833333333335
+USDA_RUN12_D13.BAF	Glycine, serine and threonine metabolism	1969.2771645021644
+USDA_RUN12_D13.BAF	Glycolysis / Gluconeogenesis	2340.0791971916974
+USDA_RUN12_D13.BAF	Glycosaminoglycan degradation	24.5
+USDA_RUN12_D13.BAF	Glyoxylate and dicarboxylate metabolism	1264.1736330920542
+USDA_RUN12_D13.BAF	Histidine metabolism	1273.7
+USDA_RUN12_D13.BAF	Homologous recombination	3212.8333333333335
+USDA_RUN12_D13.BAF	Limonene and pinene degradation	37.25816993464052
+USDA_RUN12_D13.BAF	Lipoic acid metabolism	193
+USDA_RUN12_D13.BAF	Lipopolysaccharide biosynthesis	1734.8333333333333
+USDA_RUN12_D13.BAF	Lysine biosynthesis	524.3456349206349
+USDA_RUN12_D13.BAF	Lysine degradation	874.5545358494275
+USDA_RUN12_D13.BAF	Metabolic pathways	41172.315370847755
+USDA_RUN12_D13.BAF	Methane metabolism	847.8277958152958
+USDA_RUN12_D13.BAF	Microbial metabolism in diverse environments	10908.444952377344
+USDA_RUN12_D13.BAF	Mismatch repair	2312.8333333333335
+USDA_RUN12_D13.BAF	Monobactam biosynthesis	243.0063492063492
+USDA_RUN12_D13.BAF	Nicotinate and nicotinamide metabolism	1230.5142857142857
+USDA_RUN12_D13.BAF	Nitrogen metabolism	2242.3007215007215
+USDA_RUN12_D13.BAF	Nitrotoluene degradation	123
+USDA_RUN12_D13.BAF	Novobiocin biosynthesis	74.32121212121213
+USDA_RUN12_D13.BAF	One carbon pool by folate	550.4119047619048
+USDA_RUN12_D13.BAF	Other glycan degradation	256.0833333333333
+USDA_RUN12_D13.BAF	Oxidative phosphorylation	3023.5939393939393
+USDA_RUN12_D13.BAF	Pantothenate and CoA biosynthesis	901.1174603174603
+USDA_RUN12_D13.BAF	Pentose and glucuronate interconversions	2447.1666666666665
+USDA_RUN12_D13.BAF	Pentose phosphate pathway	1619.770707070707
+USDA_RUN12_D13.BAF	Peptidoglycan biosynthesis	2576.6666666666665
+USDA_RUN12_D13.BAF	Phenylalanine metabolism	1389.8259740259741
+USDA_RUN12_D13.BAF	Phenylalanine, tyrosine and tryptophan biosynthesis	636.5962121212121
+USDA_RUN12_D13.BAF	Phosphonate and phosphinate metabolism	1220.6666666666667
+USDA_RUN12_D13.BAF	Phosphotransferase system (PTS)	4592.75
+USDA_RUN12_D13.BAF	Porphyrin and chlorophyll metabolism	2242.9333333333334
+USDA_RUN12_D13.BAF	Propanoate metabolism	2247.021527191419
+USDA_RUN12_D13.BAF	Protein export	1216.3333333333333
+USDA_RUN12_D13.BAF	Proximal tubule bicarbonate reclamation	25.333333333333332
+USDA_RUN12_D13.BAF	Purine metabolism	6830.926623376624
+USDA_RUN12_D13.BAF	Pyrimidine metabolism	4015.5595238095234
+USDA_RUN12_D13.BAF	Pyruvate metabolism	2542.6693457127667
+USDA_RUN12_D13.BAF	Quorum sensing	7848.658333333334
+USDA_RUN12_D13.BAF	Riboflavin metabolism	437.15
+USDA_RUN12_D13.BAF	Ribosome	4870
+USDA_RUN12_D13.BAF	RNA degradation	2928.2285714285713
+USDA_RUN12_D13.BAF	Selenocompound metabolism	1260.0142857142857
+USDA_RUN12_D13.BAF	Starch and sucrose metabolism	5571.521212121213
+USDA_RUN12_D13.BAF	Streptomycin biosynthesis	372.4878787878788
+USDA_RUN12_D13.BAF	Styrene degradation	101.36666666666667
+USDA_RUN12_D13.BAF	Sulfur metabolism	2382.4059523809524
+USDA_RUN12_D13.BAF	Sulfur relay system	958.7333333333333
+USDA_RUN12_D13.BAF	Synthesis and degradation of ketone bodies	83.73684210526315
+USDA_RUN12_D13.BAF	Taurine and hypotaurine metabolism	276.8333333333333
+USDA_RUN12_D13.BAF	Terpenoid backbone biosynthesis	467.4868421052632
+USDA_RUN12_D13.BAF	Thiamine metabolism	972.7666666666667
+USDA_RUN12_D13.BAF	Tropane, piperidine and pyridine alkaloid biosynthesis	328.7378787878788
+USDA_RUN12_D13.BAF	Tryptophan metabolism	270.5482171681088
+USDA_RUN12_D13.BAF	Two-component system	18793.382296650718
+USDA_RUN12_D13.BAF	Tyrosine metabolism	694.7607267732268
+USDA_RUN12_D13.BAF	Ubiquinone and other terpenoid-quinone biosynthesis	905.05
+USDA_RUN12_D13.BAF	Valine, leucine and isoleucine biosynthesis	587.7996031746031
+USDA_RUN12_D13.BAF	Valine, leucine and isoleucine degradation	274.5240524439441
+USDA_RUN12_D13.BAF	Vancomycin resistance	303.5
+USDA_RUN12_D13.BAF	Vitamin B6 metabolism	466.7916666666667
+USDA_RUN12_D13.BAF	Xylene degradation	105.62698412698413
+USDA_RUN12_D13.BAF	NA	NA
+USDA_RUN12_D14.BAF	2-Oxocarboxylic acid metabolism	1764.2123376623376
+USDA_RUN12_D14.BAF	ABC transporters	63912.166666666664
+USDA_RUN12_D14.BAF	Alanine, aspartate and glutamate metabolism	3403.188059163059
+USDA_RUN12_D14.BAF	Amino sugar and nucleotide sugar metabolism	5340.490909090909
+USDA_RUN12_D14.BAF	Aminoacyl-tRNA biosynthesis	12811.7
+USDA_RUN12_D14.BAF	Aminobenzoate degradation	605.547619047619
+USDA_RUN12_D14.BAF	Arginine and proline metabolism	5023.7
+USDA_RUN12_D14.BAF	Arginine biosynthesis	935.3106782106781
+USDA_RUN12_D14.BAF	Ascorbate and aldarate metabolism	2376.1666666666665
+USDA_RUN12_D14.BAF	Atrazine degradation	123.45
+USDA_RUN12_D14.BAF	Bacterial chemotaxis	1294
+USDA_RUN12_D14.BAF	Bacterial secretion system	5637.833333333333
+USDA_RUN12_D14.BAF	Base excision repair	2592.5833333333335
+USDA_RUN12_D14.BAF	Benzoate degradation	1669.1221234905445
+USDA_RUN12_D14.BAF	beta-Alanine metabolism	732.2583333333333
+USDA_RUN12_D14.BAF	beta-Lactam resistance	6146.166666666667
+USDA_RUN12_D14.BAF	Biofilm formation - Escherichia coli	9780.525
+USDA_RUN12_D14.BAF	Biofilm formation - Pseudomonas aeruginosa	3355.65
+USDA_RUN12_D14.BAF	Biofilm formation - Vibrio cholerae	3447.275
+USDA_RUN12_D14.BAF	Biosynthesis of amino acids	7893.923845598846
+USDA_RUN12_D14.BAF	Biosynthesis of antibiotics	13430.414571320493
+USDA_RUN12_D14.BAF	Biosynthesis of secondary metabolites	22349.923698304614
+USDA_RUN12_D14.BAF	Biosynthesis of siderophore group nonribosomal peptides	1804.3999999999999
+USDA_RUN12_D14.BAF	Biotin metabolism	1931.8333333333333
+USDA_RUN12_D14.BAF	Butanoate metabolism	2428.4514885699095
+USDA_RUN12_D14.BAF	C5-Branched dibasic acid metabolism	773.1190476190476
+USDA_RUN12_D14.BAF	Caprolactam degradation	79.33333333333333
+USDA_RUN12_D14.BAF	Carbon fixation in photosynthetic organisms	1167.1638888888888
+USDA_RUN12_D14.BAF	Carbon fixation pathways in prokaryotes	1412.8782562466772
+USDA_RUN12_D14.BAF	Carbon metabolism	6039.103216009137
+USDA_RUN12_D14.BAF	Cationic antimicrobial peptide (CAMP) resistance	7428.833333333333
+USDA_RUN12_D14.BAF	Cell cycle - Caulobacter	3787.75
+USDA_RUN12_D14.BAF	Chloroalkane and chloroalkene degradation	165.83814102564102
+USDA_RUN12_D14.BAF	Citrate cycle (TCA cycle)	1447.9455988455989
+USDA_RUN12_D14.BAF	Cyanoamino acid metabolism	607.6166666666667
+USDA_RUN12_D14.BAF	Cysteine and methionine metabolism	3723.1854617604617
+USDA_RUN12_D14.BAF	D-Alanine metabolism	337.41666666666663
+USDA_RUN12_D14.BAF	D-Glutamine and D-glutamate metabolism	488.77777777777777
+USDA_RUN12_D14.BAF	DNA replication	2414.4166666666665
+USDA_RUN12_D14.BAF	Drug metabolism - other enzymes	1059.9960317460318
+USDA_RUN12_D14.BAF	Fatty acid biosynthesis	791.4
+USDA_RUN12_D14.BAF	Fatty acid degradation	1001.9674073733285
+USDA_RUN12_D14.BAF	Fatty acid metabolism	1217.3792663476875
+USDA_RUN12_D14.BAF	Fluorobenzoate degradation	256.5238095238095
+USDA_RUN12_D14.BAF	Folate biosynthesis	2417.366666666667
+USDA_RUN12_D14.BAF	Fructose and mannose metabolism	4787.189610389611
+USDA_RUN12_D14.BAF	Galactose metabolism	4216.149567099566
+USDA_RUN12_D14.BAF	Geraniol degradation	151.24242424242425
+USDA_RUN12_D14.BAF	Glutathione metabolism	2748.901443001443
+USDA_RUN12_D14.BAF	Glycerolipid metabolism	2855.9230158730156
+USDA_RUN12_D14.BAF	Glycerophospholipid metabolism	4469.916666666667
+USDA_RUN12_D14.BAF	Glycine, serine and threonine metabolism	3975.502344877345
+USDA_RUN12_D14.BAF	Glycolysis / Gluconeogenesis	4667.931503219003
+USDA_RUN12_D14.BAF	Glycosaminoglycan degradation	47
+USDA_RUN12_D14.BAF	Glyoxylate and dicarboxylate metabolism	2520.2424476108686
+USDA_RUN12_D14.BAF	Histidine metabolism	2371.8
+USDA_RUN12_D14.BAF	Homologous recombination	6560.5
+USDA_RUN12_D14.BAF	Limonene and pinene degradation	79.33333333333333
+USDA_RUN12_D14.BAF	Lipoic acid metabolism	374.5
+USDA_RUN12_D14.BAF	Lipopolysaccharide biosynthesis	3525.8333333333335
+USDA_RUN12_D14.BAF	Lysine biosynthesis	1060.675
+USDA_RUN12_D14.BAF	Lysine degradation	1774.7725563909773
+USDA_RUN12_D14.BAF	Metabolic pathways	83174.53147663744
+USDA_RUN12_D14.BAF	Methane metabolism	1708.5685245310244
+USDA_RUN12_D14.BAF	Microbial metabolism in diverse environments	22156.8999831309
+USDA_RUN12_D14.BAF	Mismatch repair	4590.75
+USDA_RUN12_D14.BAF	Monobactam biosynthesis	492.2285714285714
+USDA_RUN12_D14.BAF	Nicotinate and nicotinamide metabolism	2531.5666666666666
+USDA_RUN12_D14.BAF	Nitrogen metabolism	4535.161471861472
+USDA_RUN12_D14.BAF	Nitrotoluene degradation	268
+USDA_RUN12_D14.BAF	Novobiocin biosynthesis	155.06363636363636
+USDA_RUN12_D14.BAF	One carbon pool by folate	1146.5785714285714
+USDA_RUN12_D14.BAF	Other glycan degradation	461.5833333333333
+USDA_RUN12_D14.BAF	Oxidative phosphorylation	6069.675757575757
+USDA_RUN12_D14.BAF	Pantothenate and CoA biosynthesis	1839.4579365079364
+USDA_RUN12_D14.BAF	Pentose and glucuronate interconversions	5054.277777777777
+USDA_RUN12_D14.BAF	Pentose phosphate pathway	3203.044264069264
+USDA_RUN12_D14.BAF	Peptidoglycan biosynthesis	5236.166666666667
+USDA_RUN12_D14.BAF	Phenylalanine metabolism	2964.49816017316
+USDA_RUN12_D14.BAF	Phenylalanine, tyrosine and tryptophan biosynthesis	1291.6969696969697
+USDA_RUN12_D14.BAF	Phosphonate and phosphinate metabolism	2387.6666666666665
+USDA_RUN12_D14.BAF	Phosphotransferase system (PTS)	9378.25
+USDA_RUN12_D14.BAF	Porphyrin and chlorophyll metabolism	4556.7
+USDA_RUN12_D14.BAF	Propanoate metabolism	4593.82648856991
+USDA_RUN12_D14.BAF	Protein export	2404.1666666666665
+USDA_RUN12_D14.BAF	Proximal tubule bicarbonate reclamation	47.11111111111111
+USDA_RUN12_D14.BAF	Purine metabolism	13932.873701298702
+USDA_RUN12_D14.BAF	Pyrimidine metabolism	7944.690476190476
+USDA_RUN12_D14.BAF	Pyruvate metabolism	5048.833775727197
+USDA_RUN12_D14.BAF	Quorum sensing	15562.25
+USDA_RUN12_D14.BAF	Riboflavin metabolism	903.25
+USDA_RUN12_D14.BAF	Ribosome	9190
+USDA_RUN12_D14.BAF	RNA degradation	5953.6238095238095
+USDA_RUN12_D14.BAF	Selenocompound metabolism	2551.152380952381
+USDA_RUN12_D14.BAF	Starch and sucrose metabolism	11449.01590909091
+USDA_RUN12_D14.BAF	Streptomycin biosynthesis	769.3575757575758
+USDA_RUN12_D14.BAF	Styrene degradation	230.1
+USDA_RUN12_D14.BAF	Sulfur metabolism	4751.710714285714
+USDA_RUN12_D14.BAF	Sulfur relay system	1966.8
+USDA_RUN12_D14.BAF	Synthesis and degradation of ketone bodies	178.73684210526315
+USDA_RUN12_D14.BAF	Taurine and hypotaurine metabolism	546.4583333333334
+USDA_RUN12_D14.BAF	Terpenoid backbone biosynthesis	937.4868421052631
+USDA_RUN12_D14.BAF	Thiamine metabolism	2019.45
+USDA_RUN12_D14.BAF	Tropane, piperidine and pyridine alkaloid biosynthesis	658.6886363636363
+USDA_RUN12_D14.BAF	Tryptophan metabolism	534.4163292847503
+USDA_RUN12_D14.BAF	Two-component system	37152.955023923445
+USDA_RUN12_D14.BAF	Tyrosine metabolism	1457.5053488178487
+USDA_RUN12_D14.BAF	Ubiquinone and other terpenoid-quinone biosynthesis	1931.2809523809522
+USDA_RUN12_D14.BAF	Valine, leucine and isoleucine biosynthesis	1224.811507936508
+USDA_RUN12_D14.BAF	Valine, leucine and isoleucine degradation	567.5625996810207
+USDA_RUN12_D14.BAF	Vancomycin resistance	612
+USDA_RUN12_D14.BAF	Vitamin B6 metabolism	981.6666666666666
+USDA_RUN12_D14.BAF	Xylene degradation	224.47619047619045
+USDA_RUN12_D14.BAF	NA	NA
+USDA_RUN12_D25.BAF	2-Oxocarboxylic acid metabolism	5406.237662337662
+USDA_RUN12_D25.BAF	ABC transporters	198808.5
+USDA_RUN12_D25.BAF	Alanine, aspartate and glutamate metabolism	10464.873989898992
+USDA_RUN12_D25.BAF	Amino sugar and nucleotide sugar metabolism	16131.207575757575
+USDA_RUN12_D25.BAF	Aminoacyl-tRNA biosynthesis	38523.1
+USDA_RUN12_D25.BAF	Aminobenzoate degradation	1804.390476190476
+USDA_RUN12_D25.BAF	Arginine and proline metabolism	16360.216666666667
+USDA_RUN12_D25.BAF	Arginine biosynthesis	2796.9704184704183
+USDA_RUN12_D25.BAF	Ascorbate and aldarate metabolism	7231.25
+USDA_RUN12_D25.BAF	Atrazine degradation	397.4
+USDA_RUN12_D25.BAF	Bacterial chemotaxis	3636.5
+USDA_RUN12_D25.BAF	Bacterial secretion system	18633
+USDA_RUN12_D25.BAF	Base excision repair	7999.773809523809
+USDA_RUN12_D25.BAF	Benzoate degradation	5308.133398335411
+USDA_RUN12_D25.BAF	beta-Alanine metabolism	2337.478431372549
+USDA_RUN12_D25.BAF	beta-Lactam resistance	19664.833333333332
+USDA_RUN12_D25.BAF	Biofilm formation - Escherichia coli	29437.258333333335
+USDA_RUN12_D25.BAF	Biofilm formation - Pseudomonas aeruginosa	11444.6
+USDA_RUN12_D25.BAF	Biofilm formation - Vibrio cholerae	10439.683333333332
+USDA_RUN12_D25.BAF	Biosynthesis of amino acids	24196.808910533895
+USDA_RUN12_D25.BAF	Biosynthesis of antibiotics	41167.08358564807
+USDA_RUN12_D25.BAF	Biosynthesis of secondary metabolites	68749.8066015211
+USDA_RUN12_D25.BAF	Biosynthesis of siderophore group nonribosomal peptides	2555.8666666666663
+USDA_RUN12_D25.BAF	Biotin metabolism	6048.166666666667
+USDA_RUN12_D25.BAF	Butanoate metabolism	7811.617308869322
+USDA_RUN12_D25.BAF	C5-Branched dibasic acid metabolism	2510.8650793650795
+USDA_RUN12_D25.BAF	Caprolactam degradation	241.41176470588235
+USDA_RUN12_D25.BAF	Carbon fixation in photosynthetic organisms	3580.473088023088
+USDA_RUN12_D25.BAF	Carbon fixation pathways in prokaryotes	4319.796200729095
+USDA_RUN12_D25.BAF	Carbon metabolism	18242.874741714248
+USDA_RUN12_D25.BAF	Cationic antimicrobial peptide (CAMP) resistance	23074.166666666668
+USDA_RUN12_D25.BAF	Cell cycle - Caulobacter	11089.5
+USDA_RUN12_D25.BAF	Chloroalkane and chloroalkene degradation	438.35096153846155
+USDA_RUN12_D25.BAF	Citrate cycle (TCA cycle)	4319.607792207792
+USDA_RUN12_D25.BAF	Cyanoamino acid metabolism	1790.3833333333332
+USDA_RUN12_D25.BAF	Cysteine and methionine metabolism	11744.433044733045
+USDA_RUN12_D25.BAF	D-Alanine metabolism	1131.75
+USDA_RUN12_D25.BAF	D-Glutamine and D-glutamate metabolism	1536.7777777777776
+USDA_RUN12_D25.BAF	DNA replication	7320.940476190475
+USDA_RUN12_D25.BAF	Drug metabolism - other enzymes	3387.6865079365075
+USDA_RUN12_D25.BAF	Fatty acid biosynthesis	2385.133333333333
+USDA_RUN12_D25.BAF	Fatty acid degradation	3161.039121778634
+USDA_RUN12_D25.BAF	Fatty acid metabolism	3781.921493573506
+USDA_RUN12_D25.BAF	Fluorobenzoate degradation	838.5333333333333
+USDA_RUN12_D25.BAF	Folate biosynthesis	7835.766666666666
+USDA_RUN12_D25.BAF	Fructose and mannose metabolism	14679.156926406926
+USDA_RUN12_D25.BAF	Galactose metabolism	12835.563636363635
+USDA_RUN12_D25.BAF	Geraniol degradation	459.13903743315507
+USDA_RUN12_D25.BAF	Glutathione metabolism	8430.778932178933
+USDA_RUN12_D25.BAF	Glycerolipid metabolism	8823.969841269842
+USDA_RUN12_D25.BAF	Glycerophospholipid metabolism	14033.416666666666
+USDA_RUN12_D25.BAF	Glycine, serine and threonine metabolism	12506.014826839828
+USDA_RUN12_D25.BAF	Glycolysis / Gluconeogenesis	14545.152115939612
+USDA_RUN12_D25.BAF	Glycosaminoglycan degradation	174.5
+USDA_RUN12_D25.BAF	Glyoxylate and dicarboxylate metabolism	7597.597013804909
+USDA_RUN12_D25.BAF	Histidine metabolism	6459.15
+USDA_RUN12_D25.BAF	Homologous recombination	20326.85714285714
+USDA_RUN12_D25.BAF	Limonene and pinene degradation	241.41176470588235
+USDA_RUN12_D25.BAF	Lipoic acid metabolism	1223
+USDA_RUN12_D25.BAF	Lipopolysaccharide biosynthesis	10739.166666666666
+USDA_RUN12_D25.BAF	Lysine biosynthesis	3323.26626984127
+USDA_RUN12_D25.BAF	Lysine degradation	5780.296601798614
+USDA_RUN12_D25.BAF	Metabolic pathways	256936.17176968628
+USDA_RUN12_D25.BAF	Methane metabolism	5097.475126262626
+USDA_RUN12_D25.BAF	Microbial metabolism in diverse environments	69886.01332812782
+USDA_RUN12_D25.BAF	Mismatch repair	13750.75
+USDA_RUN12_D25.BAF	Monobactam biosynthesis	1544.5222222222221
+USDA_RUN12_D25.BAF	Nicotinate and nicotinamide metabolism	8096.4857142857145
+USDA_RUN12_D25.BAF	Nitrogen metabolism	15027.136291486291
+USDA_RUN12_D25.BAF	Nitrotoluene degradation	865
+USDA_RUN12_D25.BAF	Novobiocin biosynthesis	483.73939393939395
+USDA_RUN12_D25.BAF	One carbon pool by folate	3520.4761904761904
+USDA_RUN12_D25.BAF	Other glycan degradation	1200.8333333333333
+USDA_RUN12_D25.BAF	Oxidative phosphorylation	17775.848484848484
+USDA_RUN12_D25.BAF	Pantothenate and CoA biosynthesis	5440.796825396826
+USDA_RUN12_D25.BAF	Pentose and glucuronate interconversions	15969.61111111111
+USDA_RUN12_D25.BAF	Pentose phosphate pathway	9946.218181818182
+USDA_RUN12_D25.BAF	Peptidoglycan biosynthesis	16374.666666666666
+USDA_RUN12_D25.BAF	Phenylalanine metabolism	10123.639393939395
+USDA_RUN12_D25.BAF	Phenylalanine, tyrosine and tryptophan biosynthesis	4201.65606060606
+USDA_RUN12_D25.BAF	Phosphonate and phosphinate metabolism	6953.166666666667
+USDA_RUN12_D25.BAF	Phosphotransferase system (PTS)	26782
+USDA_RUN12_D25.BAF	Porphyrin and chlorophyll metabolism	13804.866666666667
+USDA_RUN12_D25.BAF	Propanoate metabolism	13610.863665290677
+USDA_RUN12_D25.BAF	Protein export	7084.666666666667
+USDA_RUN12_D25.BAF	Proximal tubule bicarbonate reclamation	171.44444444444443
+USDA_RUN12_D25.BAF	Purine metabolism	42039.3303030303
+USDA_RUN12_D25.BAF	Pyrimidine metabolism	23516.288095238095
+USDA_RUN12_D25.BAF	Pyruvate metabolism	15735.583141566036
+USDA_RUN12_D25.BAF	Quorum sensing	48237.1
+USDA_RUN12_D25.BAF	Riboflavin metabolism	2910.1333333333328
+USDA_RUN12_D25.BAF	Ribosome	23189
+USDA_RUN12_D25.BAF	RNA degradation	16985.366666666665
+USDA_RUN12_D25.BAF	Selenocompound metabolism	7954.8190476190475
+USDA_RUN12_D25.BAF	Starch and sucrose metabolism	35116.06590909091
+USDA_RUN12_D25.BAF	Streptomycin biosynthesis	2439.390909090909
+USDA_RUN12_D25.BAF	Styrene degradation	708.6333333333333
+USDA_RUN12_D25.BAF	Sulfur metabolism	15447.885714285714
+USDA_RUN12_D25.BAF	Sulfur relay system	6388.933333333333
+USDA_RUN12_D25.BAF	Synthesis and degradation of ketone bodies	620.9824561403508
+USDA_RUN12_D25.BAF	Taurine and hypotaurine metabolism	1678.5416666666665
+USDA_RUN12_D25.BAF	Terpenoid backbone biosynthesis	3001.4657894736843
+USDA_RUN12_D25.BAF	Thiamine metabolism	6181.683333333333
+USDA_RUN12_D25.BAF	Tropane, piperidine and pyridine alkaloid biosynthesis	2148.7393939393937
+USDA_RUN12_D25.BAF	Tryptophan metabolism	1756.5621695641819
+USDA_RUN12_D25.BAF	Two-component system	112427.63548644341
+USDA_RUN12_D25.BAF	Tyrosine metabolism	4514.7189269064265
+USDA_RUN12_D25.BAF	Ubiquinone and other terpenoid-quinone biosynthesis	6083.857142857143
+USDA_RUN12_D25.BAF	Valine, leucine and isoleucine biosynthesis	3760.498015873016
+USDA_RUN12_D25.BAF	Valine, leucine and isoleucine degradation	1854.0103824623948
+USDA_RUN12_D25.BAF	Vancomycin resistance	1956.9999999999998
+USDA_RUN12_D25.BAF	Vitamin B6 metabolism	3242.125
+USDA_RUN12_D25.BAF	Xylene degradation	810.5
+USDA_RUN12_D25.BAF	NA	NA
+USDA_RUN12_D27.BAF	2-Oxocarboxylic acid metabolism	6106.616378066378
+USDA_RUN12_D27.BAF	ABC transporters	222315.3333333333
+USDA_RUN12_D27.BAF	Alanine, aspartate and glutamate metabolism	11544.64696969697
+USDA_RUN12_D27.BAF	Amino sugar and nucleotide sugar metabolism	18249.55404040404
+USDA_RUN12_D27.BAF	Aminoacyl-tRNA biosynthesis	43153.1
+USDA_RUN12_D27.BAF	Aminobenzoate degradation	2067.9698412698413
+USDA_RUN12_D27.BAF	Arginine and proline metabolism	18200.766666666666
+USDA_RUN12_D27.BAF	Arginine biosynthesis	3118.1945887445886
+USDA_RUN12_D27.BAF	Ascorbate and aldarate metabolism	7935.416666666667
+USDA_RUN12_D27.BAF	Atrazine degradation	431.56666666666666
+USDA_RUN12_D27.BAF	Bacterial chemotaxis	4137.5
+USDA_RUN12_D27.BAF	Bacterial secretion system	20892
+USDA_RUN12_D27.BAF	Base excision repair	8991.25
+USDA_RUN12_D27.BAF	Benzoate degradation	5957.228925254311
+USDA_RUN12_D27.BAF	beta-Alanine metabolism	2539.539869281046
+USDA_RUN12_D27.BAF	beta-Lactam resistance	22104.833333333336
+USDA_RUN12_D27.BAF	Biofilm formation - Escherichia coli	33007.38333333333
+USDA_RUN12_D27.BAF	Biofilm formation - Pseudomonas aeruginosa	12822.675
+USDA_RUN12_D27.BAF	Biofilm formation - Vibrio cholerae	11831.633333333333
+USDA_RUN12_D27.BAF	Biosynthesis of amino acids	27084.744300144277
+USDA_RUN12_D27.BAF	Biosynthesis of antibiotics	46086.37805529091
+USDA_RUN12_D27.BAF	Biosynthesis of secondary metabolites	77037.78281719574
+USDA_RUN12_D27.BAF	Biosynthesis of siderophore group nonribosomal peptides	2843.4666666666662
+USDA_RUN12_D27.BAF	Biotin metabolism	6702.083333333333
+USDA_RUN12_D27.BAF	Butanoate metabolism	8860.822251372638
+USDA_RUN12_D27.BAF	C5-Branched dibasic acid metabolism	2761.666666666667
+USDA_RUN12_D27.BAF	Caprolactam degradation	275.1732026143791
+USDA_RUN12_D27.BAF	Carbon fixation in photosynthetic organisms	4008.9505772005773
+USDA_RUN12_D27.BAF	Carbon fixation pathways in prokaryotes	4840.115967950178
+USDA_RUN12_D27.BAF	Carbon metabolism	20408.48053059341
+USDA_RUN12_D27.BAF	Cationic antimicrobial peptide (CAMP) resistance	26079.75
+USDA_RUN12_D27.BAF	Cell cycle - Caulobacter	12509.5
+USDA_RUN12_D27.BAF	Chloroalkane and chloroalkene degradation	496.3253205128205
+USDA_RUN12_D27.BAF	Citrate cycle (TCA cycle)	4855.244913419913
+USDA_RUN12_D27.BAF	Cyanoamino acid metabolism	1993.95
+USDA_RUN12_D27.BAF	Cysteine and methionine metabolism	13073.539971139971
+USDA_RUN12_D27.BAF	D-Alanine metabolism	1271.8333333333333
+USDA_RUN12_D27.BAF	D-Glutamine and D-glutamate metabolism	1684.3333333333333
+USDA_RUN12_D27.BAF	DNA replication	8112.583333333333
+USDA_RUN12_D27.BAF	Drug metabolism - other enzymes	3752.4523809523807
+USDA_RUN12_D27.BAF	Fatty acid biosynthesis	2766.9166666666665
+USDA_RUN12_D27.BAF	Fatty acid degradation	3558.666944179831
+USDA_RUN12_D27.BAF	Fatty acid metabolism	4280.458290333678
+USDA_RUN12_D27.BAF	Fluorobenzoate degradation	956.5333333333333
+USDA_RUN12_D27.BAF	Folate biosynthesis	8829.25
+USDA_RUN12_D27.BAF	Fructose and mannose metabolism	16391.89264069264
+USDA_RUN12_D27.BAF	Galactose metabolism	14448.281818181817
+USDA_RUN12_D27.BAF	Geraniol degradation	510.1732026143791
+USDA_RUN12_D27.BAF	Glutathione metabolism	9456.344047619048
+USDA_RUN12_D27.BAF	Glycerolipid metabolism	9751.87380952381
+USDA_RUN12_D27.BAF	Glycerophospholipid metabolism	15823.72619047619
+USDA_RUN12_D27.BAF	Glycine, serine and threonine metabolism	14024.29595959596
+USDA_RUN12_D27.BAF	Glycolysis / Gluconeogenesis	16313.767816905312
+USDA_RUN12_D27.BAF	Glycosaminoglycan degradation	209.5
+USDA_RUN12_D27.BAF	Glyoxylate and dicarboxylate metabolism	8622.318926103137
+USDA_RUN12_D27.BAF	Histidine metabolism	7225.85
+USDA_RUN12_D27.BAF	Homologous recombination	22691.333333333332
+USDA_RUN12_D27.BAF	Limonene and pinene degradation	275.1732026143791
+USDA_RUN12_D27.BAF	Lipoic acid metabolism	1406.5
+USDA_RUN12_D27.BAF	Lipopolysaccharide biosynthesis	12158.166666666666
+USDA_RUN12_D27.BAF	Lysine biosynthesis	3706.4940476190477
+USDA_RUN12_D27.BAF	Lysine degradation	6368.434480809868
+USDA_RUN12_D27.BAF	Metabolic pathways	288035.8754218133
+USDA_RUN12_D27.BAF	Methane metabolism	5752.7446067821065
+USDA_RUN12_D27.BAF	Microbial metabolism in diverse environments	78226.08346654639
+USDA_RUN12_D27.BAF	Mismatch repair	15583.583333333334
+USDA_RUN12_D27.BAF	Monobactam biosynthesis	1714.095238095238
+USDA_RUN12_D27.BAF	Nicotinate and nicotinamide metabolism	9307.280952380954
+USDA_RUN12_D27.BAF	Nitrogen metabolism	16614.118398268398
+USDA_RUN12_D27.BAF	Nitrotoluene degradation	1008
+USDA_RUN12_D27.BAF	Novobiocin biosynthesis	561.660606060606
+USDA_RUN12_D27.BAF	One carbon pool by folate	4041.65
+USDA_RUN12_D27.BAF	Other glycan degradation	1314.8333333333333
+USDA_RUN12_D27.BAF	Oxidative phosphorylation	19852.90404040404
+USDA_RUN12_D27.BAF	Pantothenate and CoA biosynthesis	6195.3825396825405
+USDA_RUN12_D27.BAF	Pentose and glucuronate interconversions	17919.027777777777
+USDA_RUN12_D27.BAF	Pentose phosphate pathway	11090.883405483404
+USDA_RUN12_D27.BAF	Peptidoglycan biosynthesis	18492.583333333332
+USDA_RUN12_D27.BAF	Phenylalanine metabolism	11354.495129870129
+USDA_RUN12_D27.BAF	Phenylalanine, tyrosine and tryptophan biosynthesis	4689.618939393939
+USDA_RUN12_D27.BAF	Phosphonate and phosphinate metabolism	7646.166666666667
+USDA_RUN12_D27.BAF	Phosphotransferase system (PTS)	30432.25
+USDA_RUN12_D27.BAF	Porphyrin and chlorophyll metabolism	15399.466666666665
+USDA_RUN12_D27.BAF	Propanoate metabolism	15419.788016163402
+USDA_RUN12_D27.BAF	Protein export	7949.500000000001
+USDA_RUN12_D27.BAF	Proximal tubule bicarbonate reclamation	192.33333333333331
+USDA_RUN12_D27.BAF	Purine metabolism	47495.46298701298
+USDA_RUN12_D27.BAF	Pyrimidine metabolism	26655.635714285716
+USDA_RUN12_D27.BAF	Pyruvate metabolism	17639.977764486976
+USDA_RUN12_D27.BAF	Quorum sensing	54314.39166666666
+USDA_RUN12_D27.BAF	Riboflavin metabolism	3200.183333333333
+USDA_RUN12_D27.BAF	Ribosome	26310
+USDA_RUN12_D27.BAF	RNA degradation	18948.8
+USDA_RUN12_D27.BAF	Selenocompound metabolism	8960.890476190476
+USDA_RUN12_D27.BAF	Starch and sucrose metabolism	39613.58737373737
+USDA_RUN12_D27.BAF	Streptomycin biosynthesis	2675.431818181818
+USDA_RUN12_D27.BAF	Styrene degradation	818.8333333333334
+USDA_RUN12_D27.BAF	Sulfur metabolism	17315.790476190476
+USDA_RUN12_D27.BAF	Sulfur relay system	7090.933333333333
+USDA_RUN12_D27.BAF	Synthesis and degradation of ketone bodies	692.7017543859648
+USDA_RUN12_D27.BAF	Taurine and hypotaurine metabolism	1868.125
+USDA_RUN12_D27.BAF	Terpenoid backbone biosynthesis	3380.0184210526313
+USDA_RUN12_D27.BAF	Thiamine metabolism	6937.333333333334
+USDA_RUN12_D27.BAF	Tropane, piperidine and pyridine alkaloid biosynthesis	2394.1189393939394
+USDA_RUN12_D27.BAF	Tryptophan metabolism	1955.9499570003438
+USDA_RUN12_D27.BAF	Two-component system	127185.94006607431
+USDA_RUN12_D27.BAF	Tyrosine metabolism	5069.996640859141
+USDA_RUN12_D27.BAF	Ubiquinone and other terpenoid-quinone biosynthesis	6825.988095238095
+USDA_RUN12_D27.BAF	Valine, leucine and isoleucine biosynthesis	4228.664682539683
+USDA_RUN12_D27.BAF	Valine, leucine and isoleucine degradation	2029.6944014447884
+USDA_RUN12_D27.BAF	Vancomycin resistance	2235.25
+USDA_RUN12_D27.BAF	Vitamin B6 metabolism	3620.0416666666665
+USDA_RUN12_D27.BAF	Xylene degradation	913.0873015873016
+USDA_RUN12_D27.BAF	NA	NA
+USDA_RUN12_D28.BAF	2-Oxocarboxylic acid metabolism	5334.4364718614725
+USDA_RUN12_D28.BAF	ABC transporters	195671.5
+USDA_RUN12_D28.BAF	Alanine, aspartate and glutamate metabolism	10124.5547979798
+USDA_RUN12_D28.BAF	Amino sugar and nucleotide sugar metabolism	16019.537373737372
+USDA_RUN12_D28.BAF	Aminoacyl-tRNA biosynthesis	38023.9
+USDA_RUN12_D28.BAF	Aminobenzoate degradation	1889.51746031746
+USDA_RUN12_D28.BAF	Arginine and proline metabolism	15738.733333333334
+USDA_RUN12_D28.BAF	Arginine biosynthesis	2747.1167027417027
+USDA_RUN12_D28.BAF	Ascorbate and aldarate metabolism	7102.333333333333
+USDA_RUN12_D28.BAF	Atrazine degradation	346.76666666666665
+USDA_RUN12_D28.BAF	Bacterial chemotaxis	3673
+USDA_RUN12_D28.BAF	Bacterial secretion system	17983.166666666668
+USDA_RUN12_D28.BAF	Base excision repair	7855.690476190476
+USDA_RUN12_D28.BAF	Benzoate degradation	5169.023472227806
+USDA_RUN12_D28.BAF	beta-Alanine metabolism	2215.264869281046
+USDA_RUN12_D28.BAF	beta-Lactam resistance	19933.666666666668
+USDA_RUN12_D28.BAF	Biofilm formation - Escherichia coli	29377.125
+USDA_RUN12_D28.BAF	Biofilm formation - Pseudomonas aeruginosa	11058.375
+USDA_RUN12_D28.BAF	Biofilm formation - Vibrio cholerae	10409.666666666666
+USDA_RUN12_D28.BAF	Biosynthesis of amino acids	23685.79700577199
+USDA_RUN12_D28.BAF	Biosynthesis of antibiotics	40306.18231061161
+USDA_RUN12_D28.BAF	Biosynthesis of secondary metabolites	67120.59500902431
+USDA_RUN12_D28.BAF	Biosynthesis of siderophore group nonribosomal peptides	2473.2666666666664
+USDA_RUN12_D28.BAF	Biotin metabolism	5773.5
+USDA_RUN12_D28.BAF	Butanoate metabolism	7701.723760828096
+USDA_RUN12_D28.BAF	C5-Branched dibasic acid metabolism	2444.6190476190477
+USDA_RUN12_D28.BAF	Caprolactam degradation	239.67320261437908
+USDA_RUN12_D28.BAF	Carbon fixation in photosynthetic organisms	3517.041738816739
+USDA_RUN12_D28.BAF	Carbon fixation pathways in prokaryotes	4209.503155616313
+USDA_RUN12_D28.BAF	Carbon metabolism	17968.28795219228
+USDA_RUN12_D28.BAF	Cationic antimicrobial peptide (CAMP) resistance	23048.25
+USDA_RUN12_D28.BAF	Cell cycle - Caulobacter	11256.5
+USDA_RUN12_D28.BAF	Chloroalkane and chloroalkene degradation	426.86217948717945
+USDA_RUN12_D28.BAF	Citrate cycle (TCA cycle)	4314.300541125541
+USDA_RUN12_D28.BAF	Cyanoamino acid metabolism	1718
+USDA_RUN12_D28.BAF	Cysteine and methionine metabolism	11505.463492063493
+USDA_RUN12_D28.BAF	D-Alanine metabolism	1098.9166666666665
+USDA_RUN12_D28.BAF	D-Glutamine and D-glutamate metabolism	1508.0555555555554
+USDA_RUN12_D28.BAF	DNA replication	7210.357142857142
+USDA_RUN12_D28.BAF	Drug metabolism - other enzymes	3257.3174603174602
+USDA_RUN12_D28.BAF	Fatty acid biosynthesis	2390.4333333333334
+USDA_RUN12_D28.BAF	Fatty acid degradation	3080.492000921335
+USDA_RUN12_D28.BAF	Fatty acid metabolism	3700.6631547674892
+USDA_RUN12_D28.BAF	Fluorobenzoate degradation	826.4380952380952
+USDA_RUN12_D28.BAF	Folate biosynthesis	7728.05
+USDA_RUN12_D28.BAF	Fructose and mannose metabolism	14369.260678210678
+USDA_RUN12_D28.BAF	Galactose metabolism	12716.923376623376
+USDA_RUN12_D28.BAF	Geraniol degradation	453.03683897801545
+USDA_RUN12_D28.BAF	Glutathione metabolism	8411.078066378066
+USDA_RUN12_D28.BAF	Glycerolipid metabolism	8653.542063492063
+USDA_RUN12_D28.BAF	Glycerophospholipid metabolism	13889
+USDA_RUN12_D28.BAF	Glycine, serine and threonine metabolism	12285.033152958153
+USDA_RUN12_D28.BAF	Glycolysis / Gluconeogenesis	14561.682778332775
+USDA_RUN12_D28.BAF	Glycosaminoglycan degradation	163
+USDA_RUN12_D28.BAF	Glyoxylate and dicarboxylate metabolism	7481.921892435051
+USDA_RUN12_D28.BAF	Histidine metabolism	6218.3
+USDA_RUN12_D28.BAF	Homologous recombination	19514.690476190477
+USDA_RUN12_D28.BAF	Limonene and pinene degradation	239.67320261437908
+USDA_RUN12_D28.BAF	Lipoic acid metabolism	1242
+USDA_RUN12_D28.BAF	Lipopolysaccharide biosynthesis	10617.666666666666
+USDA_RUN12_D28.BAF	Lysine biosynthesis	3255.179365079365
+USDA_RUN12_D28.BAF	Lysine degradation	5679.3899945943285
+USDA_RUN12_D28.BAF	Metabolic pathways	251699.15841506276
+USDA_RUN12_D28.BAF	Methane metabolism	5111.122510822511
+USDA_RUN12_D28.BAF	Microbial metabolism in diverse environments	68333.41476426907
+USDA_RUN12_D28.BAF	Mismatch repair	13396.333333333334
+USDA_RUN12_D28.BAF	Monobactam biosynthesis	1506.9412698412698
+USDA_RUN12_D28.BAF	Nicotinate and nicotinamide metabolism	8131.833333333334
+USDA_RUN12_D28.BAF	Nitrogen metabolism	14378.612337662338
+USDA_RUN12_D28.BAF	Nitrotoluene degradation	865.5
+USDA_RUN12_D28.BAF	Novobiocin biosynthesis	485.8666666666667
+USDA_RUN12_D28.BAF	One carbon pool by folate	3515.790476190476
+USDA_RUN12_D28.BAF	Other glycan degradation	1153.5833333333333
+USDA_RUN12_D28.BAF	Oxidative phosphorylation	17962.71313131313
+USDA_RUN12_D28.BAF	Pantothenate and CoA biosynthesis	5461.966666666667
+USDA_RUN12_D28.BAF	Pentose and glucuronate interconversions	15541.666666666666
+USDA_RUN12_D28.BAF	Pentose phosphate pathway	9810.602236652236
+USDA_RUN12_D28.BAF	Peptidoglycan biosynthesis	16358.666666666666
+USDA_RUN12_D28.BAF	Phenylalanine metabolism	9667.10992063492
+USDA_RUN12_D28.BAF	Phenylalanine, tyrosine and tryptophan biosynthesis	4058.225
+USDA_RUN12_D28.BAF	Phosphonate and phosphinate metabolism	6647.666666666667
+USDA_RUN12_D28.BAF	Phosphotransferase system (PTS)	27087.666666666668
+USDA_RUN12_D28.BAF	Porphyrin and chlorophyll metabolism	13077.55
+USDA_RUN12_D28.BAF	Propanoate metabolism	13355.50128608062
+USDA_RUN12_D28.BAF	Protein export	7066.666666666667
+USDA_RUN12_D28.BAF	Proximal tubule bicarbonate reclamation	159.55555555555554
+USDA_RUN12_D28.BAF	Purine metabolism	41505.00822510822
+USDA_RUN12_D28.BAF	Pyrimidine metabolism	23477.569047619047
+USDA_RUN12_D28.BAF	Pyruvate metabolism	15425.584540897698
+USDA_RUN12_D28.BAF	Quorum sensing	46378.825
+USDA_RUN12_D28.BAF	Riboflavin metabolism	2838.3999999999996
+USDA_RUN12_D28.BAF	Ribosome	23761
+USDA_RUN12_D28.BAF	RNA degradation	16918.814285714285
+USDA_RUN12_D28.BAF	Selenocompound metabolism	7915.742857142857
+USDA_RUN12_D28.BAF	Starch and sucrose metabolism	34887.27904040404
+USDA_RUN12_D28.BAF	Streptomycin biosynthesis	2289.581818181818
+USDA_RUN12_D28.BAF	Styrene degradation	701.4166666666666
+USDA_RUN12_D28.BAF	Sulfur metabolism	14920.359523809524
+USDA_RUN12_D28.BAF	Sulfur relay system	6107.133333333333
+USDA_RUN12_D28.BAF	Synthesis and degradation of ketone bodies	557.859649122807
+USDA_RUN12_D28.BAF	Taurine and hypotaurine metabolism	1597.7083333333333
+USDA_RUN12_D28.BAF	Terpenoid backbone biosynthesis	2987.6263157894737
+USDA_RUN12_D28.BAF	Thiamine metabolism	6076.1500000000005
+USDA_RUN12_D28.BAF	Tropane, piperidine and pyridine alkaloid biosynthesis	2112.741666666667
+USDA_RUN12_D28.BAF	Tryptophan metabolism	1667.4956722500067
+USDA_RUN12_D28.BAF	Two-component system	111909.12480063798
+USDA_RUN12_D28.BAF	Tyrosine metabolism	4396.620512820512
+USDA_RUN12_D28.BAF	Ubiquinone and other terpenoid-quinone biosynthesis	5839.228571428572
+USDA_RUN12_D28.BAF	Valine, leucine and isoleucine biosynthesis	3675.2559523809523
+USDA_RUN12_D28.BAF	Valine, leucine and isoleucine degradation	1761.4242658786002
+USDA_RUN12_D28.BAF	Vancomycin resistance	1940.8333333333333
+USDA_RUN12_D28.BAF	Vitamin B6 metabolism	3182.4166666666665
+USDA_RUN12_D28.BAF	Xylene degradation	767.2460317460317
+USDA_RUN12_D28.BAF	NA	NA
+USDA_RUN22_D12.BAF	2-Oxocarboxylic acid metabolism	165.53903318903318
+USDA_RUN22_D12.BAF	ABC transporters	4469.833333333333
+USDA_RUN22_D12.BAF	Alanine, aspartate and glutamate metabolism	254.52099567099566
+USDA_RUN22_D12.BAF	Amino sugar and nucleotide sugar metabolism	461.2570707070707
+USDA_RUN22_D12.BAF	Aminoacyl-tRNA biosynthesis	1474.6
+USDA_RUN22_D12.BAF	Aminobenzoate degradation	0.6666666666666666
+USDA_RUN22_D12.BAF	Arginine and proline metabolism	37.083333333333336
+USDA_RUN22_D12.BAF	Arginine biosynthesis	45.23528138528138
+USDA_RUN22_D12.BAF	Ascorbate and aldarate metabolism	20.833333333333332
+USDA_RUN22_D12.BAF	Atrazine degradation	0.9333333333333333
+USDA_RUN22_D12.BAF	Bacterial chemotaxis	188.5
+USDA_RUN22_D12.BAF	Bacterial secretion system	583.8333333333333
+USDA_RUN22_D12.BAF	Base excision repair	14.273809523809524
+USDA_RUN22_D12.BAF	Benzoate degradation	12.24149075898302
+USDA_RUN22_D12.BAF	beta-Alanine metabolism	9.784313725490197
+USDA_RUN22_D12.BAF	beta-Lactam resistance	3142.5
+USDA_RUN22_D12.BAF	Biofilm formation - Escherichia coli	1123.2666666666667
+USDA_RUN22_D12.BAF	Biofilm formation - Pseudomonas aeruginosa	160.125
+USDA_RUN22_D12.BAF	Biofilm formation - Vibrio cholerae	596.5833333333334
+USDA_RUN22_D12.BAF	Biosynthesis of amino acids	724.1274891774892
+USDA_RUN22_D12.BAF	Biosynthesis of antibiotics	1274.7338511763435
+USDA_RUN22_D12.BAF	Biosynthesis of secondary metabolites	2052.4239305414226
+USDA_RUN22_D12.BAF	Biosynthesis of siderophore group nonribosomal peptides	274.8666666666667
+USDA_RUN22_D12.BAF	Biotin metabolism	177.08333333333334
+USDA_RUN22_D12.BAF	Butanoate metabolism	454.8129193304116
+USDA_RUN22_D12.BAF	C5-Branched dibasic acid metabolism	34.3015873015873
+USDA_RUN22_D12.BAF	Caprolactam degradation	3.1176470588235294
+USDA_RUN22_D12.BAF	Carbon fixation in photosynthetic organisms	186.0229797979798
+USDA_RUN22_D12.BAF	Carbon fixation pathways in prokaryotes	182.4369750132908
+USDA_RUN22_D12.BAF	Carbon metabolism	872.2962221387144
+USDA_RUN22_D12.BAF	Cationic antimicrobial peptide (CAMP) resistance	143.66666666666666
+USDA_RUN22_D12.BAF	Cell cycle - Caulobacter	620.5
+USDA_RUN22_D12.BAF	Chloroalkane and chloroalkene degradation	39.14423076923077
+USDA_RUN22_D12.BAF	Citrate cycle (TCA cycle)	297.77229437229437
+USDA_RUN22_D12.BAF	Cyanoamino acid metabolism	60.083333333333336
+USDA_RUN22_D12.BAF	Cysteine and methionine metabolism	187.7001082251082
+USDA_RUN22_D12.BAF	D-Alanine metabolism	6.25
+USDA_RUN22_D12.BAF	D-Glutamine and D-glutamate metabolism	13.166666666666666
+USDA_RUN22_D12.BAF	DNA replication	93.94047619047619
+USDA_RUN22_D12.BAF	Drug metabolism - other enzymes	35.42460317460317
+USDA_RUN22_D12.BAF	Fatty acid biosynthesis	186.58333333333331
+USDA_RUN22_D12.BAF	Fatty acid degradation	62.43572152821378
+USDA_RUN22_D12.BAF	Fatty acid metabolism	205.87482409231635
+USDA_RUN22_D12.BAF	Fluorobenzoate degradation	1
+USDA_RUN22_D12.BAF	Folate biosynthesis	55.233333333333334
+USDA_RUN22_D12.BAF	Fructose and mannose metabolism	142.2180375180375
+USDA_RUN22_D12.BAF	Galactose metabolism	177.46601731601731
+USDA_RUN22_D12.BAF	Geraniol degradation	5.572192513368984
+USDA_RUN22_D12.BAF	Glutathione metabolism	147.74040404040403
+USDA_RUN22_D12.BAF	Glycerolipid metabolism	28.796825396825398
+USDA_RUN22_D12.BAF	Glycerophospholipid metabolism	60.95238095238095
+USDA_RUN22_D12.BAF	Glycine, serine and threonine metabolism	115.83502886002886
+USDA_RUN22_D12.BAF	Glycolysis / Gluconeogenesis	657.3799089799089
+USDA_RUN22_D12.BAF	Glycosaminoglycan degradation	0.5
+USDA_RUN22_D12.BAF	Glyoxylate and dicarboxylate metabolism	207.19102096733675
+USDA_RUN22_D12.BAF	Histidine metabolism	33.35
+USDA_RUN22_D12.BAF	Homologous recombination	325.35714285714283
+USDA_RUN22_D12.BAF	Limonene and pinene degradation	3.1176470588235294
+USDA_RUN22_D12.BAF	Lipoic acid metabolism	4
+USDA_RUN22_D12.BAF	Lipopolysaccharide biosynthesis	410.5
+USDA_RUN22_D12.BAF	Lysine biosynthesis	44.24920634920635
+USDA_RUN22_D12.BAF	Lysine degradation	117.21194530443756
+USDA_RUN22_D12.BAF	Metabolic pathways	6095.046147213639
+USDA_RUN22_D12.BAF	Methane metabolism	290.8611471861472
+USDA_RUN22_D12.BAF	Microbial metabolism in diverse environments	1632.471435813928
+USDA_RUN22_D12.BAF	Mismatch repair	152.25
+USDA_RUN22_D12.BAF	Monobactam biosynthesis	24.368253968253967
+USDA_RUN22_D12.BAF	Nicotinate and nicotinamide metabolism	132.27142857142857
+USDA_RUN22_D12.BAF	Nitrogen metabolism	69.68448773448773
+USDA_RUN22_D12.BAF	Nitrotoluene degradation	6
+USDA_RUN22_D12.BAF	Novobiocin biosynthesis	2.672727272727273
+USDA_RUN22_D12.BAF	One carbon pool by folate	49.69761904761904
+USDA_RUN22_D12.BAF	Other glycan degradation	70.75
+USDA_RUN22_D12.BAF	Oxidative phosphorylation	1270.0767676767675
+USDA_RUN22_D12.BAF	Pantothenate and CoA biosynthesis	66.49047619047619
+USDA_RUN22_D12.BAF	Pentose and glucuronate interconversions	279.8333333333333
+USDA_RUN22_D12.BAF	Pentose phosphate pathway	182.46789321789322
+USDA_RUN22_D12.BAF	Peptidoglycan biosynthesis	112.91666666666667
+USDA_RUN22_D12.BAF	Phenylalanine metabolism	64.58939393939394
+USDA_RUN22_D12.BAF	Phenylalanine, tyrosine and tryptophan biosynthesis	53.3310606060606
+USDA_RUN22_D12.BAF	Phosphonate and phosphinate metabolism	12
+USDA_RUN22_D12.BAF	Phosphotransferase system (PTS)	1628
+USDA_RUN22_D12.BAF	Porphyrin and chlorophyll metabolism	242.23333333333332
+USDA_RUN22_D12.BAF	Propanoate metabolism	465.18770288019516
+USDA_RUN22_D12.BAF	Protein export	586.8333333333333
+USDA_RUN22_D12.BAF	Proximal tubule bicarbonate reclamation	1
+USDA_RUN22_D12.BAF	Purine metabolism	1110.2030303030303
+USDA_RUN22_D12.BAF	Pyrimidine metabolism	922.1761904761904
+USDA_RUN22_D12.BAF	Pyruvate metabolism	694.2296878560037
+USDA_RUN22_D12.BAF	Quorum sensing	998.6083333333333
+USDA_RUN22_D12.BAF	Riboflavin metabolism	40.416666666666664
+USDA_RUN22_D12.BAF	Ribosome	11041
+USDA_RUN22_D12.BAF	RNA degradation	1335.2190476190476
+USDA_RUN22_D12.BAF	Selenocompound metabolism	46.43333333333333
+USDA_RUN22_D12.BAF	Starch and sucrose metabolism	643.840404040404
+USDA_RUN22_D12.BAF	Streptomycin biosynthesis	46.651515151515156
+USDA_RUN22_D12.BAF	Styrene degradation	0.9166666666666666
+USDA_RUN22_D12.BAF	Sulfur metabolism	93.84166666666667
+USDA_RUN22_D12.BAF	Sulfur relay system	41.46666666666667
+USDA_RUN22_D12.BAF	Synthesis and degradation of ketone bodies	1.719298245614035
+USDA_RUN22_D12.BAF	Taurine and hypotaurine metabolism	22.375
+USDA_RUN22_D12.BAF	Terpenoid backbone biosynthesis	132.10263157894738
+USDA_RUN22_D12.BAF	Thiamine metabolism	37.083333333333336
+USDA_RUN22_D12.BAF	Tropane, piperidine and pyridine alkaloid biosynthesis	2.672727272727273
+USDA_RUN22_D12.BAF	Tryptophan metabolism	32.2504068428991
+USDA_RUN22_D12.BAF	Two-component system	1239.499601275917
+USDA_RUN22_D12.BAF	Tyrosine metabolism	69.98838661338661
+USDA_RUN22_D12.BAF	Ubiquinone and other terpenoid-quinone biosynthesis	75.86666666666666
+USDA_RUN22_D12.BAF	Valine, leucine and isoleucine biosynthesis	69.08333333333333
+USDA_RUN22_D12.BAF	Valine, leucine and isoleucine degradation	32.01371298120524
+USDA_RUN22_D12.BAF	Vancomycin resistance	15.416666666666666
+USDA_RUN22_D12.BAF	Vitamin B6 metabolism	37.041666666666664
+USDA_RUN22_D12.BAF	Xylene degradation	0.6666666666666666
+USDA_RUN22_D12.BAF	NA	NA
+USDA_RUN22_D13.BAF	2-Oxocarboxylic acid metabolism	940.9777056277056
+USDA_RUN22_D13.BAF	ABC transporters	25051.333333333332
+USDA_RUN22_D13.BAF	Alanine, aspartate and glutamate metabolism	1358.3156565656566
+USDA_RUN22_D13.BAF	Amino sugar and nucleotide sugar metabolism	2854.333838383838
+USDA_RUN22_D13.BAF	Aminoacyl-tRNA biosynthesis	8931.1
+USDA_RUN22_D13.BAF	Aminobenzoate degradation	7.223809523809524
+USDA_RUN22_D13.BAF	Arginine and proline metabolism	101.28333333333333
+USDA_RUN22_D13.BAF	Arginine biosynthesis	232.81089466089466
+USDA_RUN22_D13.BAF	Ascorbate and aldarate metabolism	130.58333333333334
+USDA_RUN22_D13.BAF	Atrazine degradation	8.3
+USDA_RUN22_D13.BAF	Bacterial chemotaxis	1537
+USDA_RUN22_D13.BAF	Bacterial secretion system	4083.666666666666
+USDA_RUN22_D13.BAF	Base excision repair	166.9047619047619
+USDA_RUN22_D13.BAF	Benzoate degradation	27.645682164412815
+USDA_RUN22_D13.BAF	beta-Alanine metabolism	8.96078431372549
+USDA_RUN22_D13.BAF	beta-Lactam resistance	2972.6666666666665
+USDA_RUN22_D13.BAF	Biofilm formation - Escherichia coli	7008.883333333333
+USDA_RUN22_D13.BAF	Biofilm formation - Pseudomonas aeruginosa	1011.9250000000001
+USDA_RUN22_D13.BAF	Biofilm formation - Vibrio cholerae	3164.0499999999997
+USDA_RUN22_D13.BAF	Biosynthesis of amino acids	4810.959090909091
+USDA_RUN22_D13.BAF	Biosynthesis of antibiotics	7970.371352327584
+USDA_RUN22_D13.BAF	Biosynthesis of secondary metabolites	12575.927304708533
+USDA_RUN22_D13.BAF	Biosynthesis of siderophore group nonribosomal peptides	426
+USDA_RUN22_D13.BAF	Biotin metabolism	1242.4166666666665
+USDA_RUN22_D13.BAF	Butanoate metabolism	2931.5264541701845
+USDA_RUN22_D13.BAF	C5-Branched dibasic acid metabolism	163.76190476190476
+USDA_RUN22_D13.BAF	Caprolactam degradation	1.2941176470588236
+USDA_RUN22_D13.BAF	Carbon fixation in photosynthetic organisms	1163.4862554112553
+USDA_RUN22_D13.BAF	Carbon fixation pathways in prokaryotes	1083.3279353687249
+USDA_RUN22_D13.BAF	Carbon metabolism	5220.459236665468
+USDA_RUN22_D13.BAF	Cationic antimicrobial peptide (CAMP) resistance	759.1666666666666
+USDA_RUN22_D13.BAF	Cell cycle - Caulobacter	3479.75
+USDA_RUN22_D13.BAF	Chloroalkane and chloroalkene degradation	143.4407051282051
+USDA_RUN22_D13.BAF	Citrate cycle (TCA cycle)	1602.5998196248197
+USDA_RUN22_D13.BAF	Cyanoamino acid metabolism	509.6333333333333
+USDA_RUN22_D13.BAF	Cysteine and methionine metabolism	448.90494227994225
+USDA_RUN22_D13.BAF	D-Alanine metabolism	25
+USDA_RUN22_D13.BAF	D-Glutamine and D-glutamate metabolism	65.27777777777777
+USDA_RUN22_D13.BAF	DNA replication	529.4047619047619
+USDA_RUN22_D13.BAF	Drug metabolism - other enzymes	193.23015873015873
+USDA_RUN22_D13.BAF	Fatty acid biosynthesis	1378.2833333333333
+USDA_RUN22_D13.BAF	Fatty acid degradation	168.91337141960207
+USDA_RUN22_D13.BAF	Fatty acid metabolism	1393.9059996247302
+USDA_RUN22_D13.BAF	Fluorobenzoate degradation	4.057142857142857
+USDA_RUN22_D13.BAF	Folate biosynthesis	321.73333333333335
+USDA_RUN22_D13.BAF	Fructose and mannose metabolism	748.4591630591631
+USDA_RUN22_D13.BAF	Galactose metabolism	673.0071428571429
+USDA_RUN22_D13.BAF	Geraniol degradation	2.657754010695187
+USDA_RUN22_D13.BAF	Glutathione metabolism	978.8560245310246
+USDA_RUN22_D13.BAF	Glycerolipid metabolism	268.4714285714286
+USDA_RUN22_D13.BAF	Glycerophospholipid metabolism	294.7261904761905
+USDA_RUN22_D13.BAF	Glycine, serine and threonine metabolism	510.8262265512265
+USDA_RUN22_D13.BAF	Glycolysis / Gluconeogenesis	4348.1362318237325
+USDA_RUN22_D13.BAF	Glycosaminoglycan degradation	6.5
+USDA_RUN22_D13.BAF	Glyoxylate and dicarboxylate metabolism	770.671161586951
+USDA_RUN22_D13.BAF	Histidine metabolism	183.2
+USDA_RUN22_D13.BAF	Homologous recombination	1632.2380952380952
+USDA_RUN22_D13.BAF	Limonene and pinene degradation	1.2941176470588236
+USDA_RUN22_D13.BAF	Lipoic acid metabolism	10.5
+USDA_RUN22_D13.BAF	Lipopolysaccharide biosynthesis	1122.6666666666667
+USDA_RUN22_D13.BAF	Lysine biosynthesis	251.22261904761905
+USDA_RUN22_D13.BAF	Lysine degradation	272.47331564204626
+USDA_RUN22_D13.BAF	Metabolic pathways	35661.77733245856
+USDA_RUN22_D13.BAF	Methane metabolism	2113.7595057720055
+USDA_RUN22_D13.BAF	Microbial metabolism in diverse environments	9323.41762827386
+USDA_RUN22_D13.BAF	Mismatch repair	898.1666666666666
+USDA_RUN22_D13.BAF	Monobactam biosynthesis	176.32380952380953
+USDA_RUN22_D13.BAF	Nicotinate and nicotinamide metabolism	366.2
+USDA_RUN22_D13.BAF	Nitrogen metabolism	277.4981962481962
+USDA_RUN22_D13.BAF	Nitrotoluene degradation	11.5
+USDA_RUN22_D13.BAF	Novobiocin biosynthesis	17.887878787878787
+USDA_RUN22_D13.BAF	One carbon pool by folate	324.1380952380952
+USDA_RUN22_D13.BAF	Other glycan degradation	121.5
+USDA_RUN22_D13.BAF	Oxidative phosphorylation	8917.397979797981
+USDA_RUN22_D13.BAF	Pantothenate and CoA biosynthesis	253.8031746031746
+USDA_RUN22_D13.BAF	Pentose and glucuronate interconversions	1221.7222222222222
+USDA_RUN22_D13.BAF	Pentose phosphate pathway	1070.424494949495
+USDA_RUN22_D13.BAF	Peptidoglycan biosynthesis	326.6666666666667
+USDA_RUN22_D13.BAF	Phenylalanine metabolism	94.44065656565657
+USDA_RUN22_D13.BAF	Phenylalanine, tyrosine and tryptophan biosynthesis	280.8128787878788
+USDA_RUN22_D13.BAF	Phosphonate and phosphinate metabolism	96.83333333333333
+USDA_RUN22_D13.BAF	Phosphotransferase system (PTS)	9793.166666666666
+USDA_RUN22_D13.BAF	Porphyrin and chlorophyll metabolism	1055.0833333333333
+USDA_RUN22_D13.BAF	Propanoate metabolism	3246.7403430590734
+USDA_RUN22_D13.BAF	Protein export	4079.4999999999995
+USDA_RUN22_D13.BAF	Proximal tubule bicarbonate reclamation	2.7777777777777777
+USDA_RUN22_D13.BAF	Purine metabolism	6076.411363636364
+USDA_RUN22_D13.BAF	Pyrimidine metabolism	5159.307142857143
+USDA_RUN22_D13.BAF	Pyruvate metabolism	4448.538324979114
+USDA_RUN22_D13.BAF	Quorum sensing	7031.091666666667
+USDA_RUN22_D13.BAF	Riboflavin metabolism	253.64999999999998
+USDA_RUN22_D13.BAF	Ribosome	66311
+USDA_RUN22_D13.BAF	RNA degradation	9346.92380952381
+USDA_RUN22_D13.BAF	Selenocompound metabolism	319.3285714285714
+USDA_RUN22_D13.BAF	Starch and sucrose metabolism	4493.417171717171
+USDA_RUN22_D13.BAF	Streptomycin biosynthesis	248.77272727272728
+USDA_RUN22_D13.BAF	Styrene degradation	6.566666666666666
+USDA_RUN22_D13.BAF	Sulfur metabolism	490.6202380952381
+USDA_RUN22_D13.BAF	Sulfur relay system	242.73333333333332
+USDA_RUN22_D13.BAF	Synthesis and degradation of ketone bodies	0.631578947368421
+USDA_RUN22_D13.BAF	Taurine and hypotaurine metabolism	158.54166666666666
+USDA_RUN22_D13.BAF	Terpenoid backbone biosynthesis	485.63157894736844
+USDA_RUN22_D13.BAF	Thiamine metabolism	186.61666666666667
+USDA_RUN22_D13.BAF	Tropane, piperidine and pyridine alkaloid biosynthesis	20.512878787878787
+USDA_RUN22_D13.BAF	Tryptophan metabolism	98.22505556878622
+USDA_RUN22_D13.BAF	Two-component system	6112.2952153110045
+USDA_RUN22_D13.BAF	Tyrosine metabolism	191.28691724941723
+USDA_RUN22_D13.BAF	Ubiquinone and other terpenoid-quinone biosynthesis	372.5238095238095
+USDA_RUN22_D13.BAF	Valine, leucine and isoleucine biosynthesis	300.6686507936508
+USDA_RUN22_D13.BAF	Valine, leucine and isoleucine degradation	96.38655518028582
+USDA_RUN22_D13.BAF	Vancomycin resistance	58.5
+USDA_RUN22_D13.BAF	Vitamin B6 metabolism	119.5
+USDA_RUN22_D13.BAF	Xylene degradation	0.2777777777777778
+USDA_RUN22_D13.BAF	NA	NA
+USDA_RUN22_D14.BMF	2-Oxocarboxylic acid metabolism	1658.6497835497835
+USDA_RUN22_D14.BMF	ABC transporters	26874
+USDA_RUN22_D14.BMF	Alanine, aspartate and glutamate metabolism	4475.439898989899
+USDA_RUN22_D14.BMF	Amino sugar and nucleotide sugar metabolism	4736.574747474748
+USDA_RUN22_D14.BMF	Aminoacyl-tRNA biosynthesis	12124.2
+USDA_RUN22_D14.BMF	Aminobenzoate degradation	21.457142857142856
+USDA_RUN22_D14.BMF	Arginine and proline metabolism	585.2333333333333
+USDA_RUN22_D14.BMF	Arginine biosynthesis	528.3994227994227
+USDA_RUN22_D14.BMF	Ascorbate and aldarate metabolism	213.58333333333334
+USDA_RUN22_D14.BMF	Atrazine degradation	8.666666666666668
+USDA_RUN22_D14.BMF	Bacterial chemotaxis	1736.5
+USDA_RUN22_D14.BMF	Bacterial secretion system	6507.833333333334
+USDA_RUN22_D14.BMF	Base excision repair	450.7142857142857
+USDA_RUN22_D14.BMF	Benzoate degradation	188.7401889304366
+USDA_RUN22_D14.BMF	beta-Alanine metabolism	120.81862745098039
+USDA_RUN22_D14.BMF	beta-Lactam resistance	8090.083333333333
+USDA_RUN22_D14.BMF	Biofilm formation - Escherichia coli	9793.433333333334
+USDA_RUN22_D14.BMF	Biofilm formation - Pseudomonas aeruginosa	1724.0249999999999
+USDA_RUN22_D14.BMF	Biofilm formation - Vibrio cholerae	5340.733333333334
+USDA_RUN22_D14.BMF	Biosynthesis of amino acids	9382.760425685425
+USDA_RUN22_D14.BMF	Biosynthesis of antibiotics	16498.174741877487
+USDA_RUN22_D14.BMF	Biosynthesis of secondary metabolites	24311.53148790923
+USDA_RUN22_D14.BMF	Biosynthesis of siderophore group nonribosomal peptides	1271.2666666666667
+USDA_RUN22_D14.BMF	Biotin metabolism	1624.2499999999998
+USDA_RUN22_D14.BMF	Butanoate metabolism	3002.7824327976805
+USDA_RUN22_D14.BMF	C5-Branched dibasic acid metabolism	384.76984126984127
+USDA_RUN22_D14.BMF	Caprolactam degradation	73.23529411764706
+USDA_RUN22_D14.BMF	Carbon fixation in photosynthetic organisms	2225.960642135642
+USDA_RUN22_D14.BMF	Carbon fixation pathways in prokaryotes	2543.1158255487203
+USDA_RUN22_D14.BMF	Carbon metabolism	10763.359321187068
+USDA_RUN22_D14.BMF	Cationic antimicrobial peptide (CAMP) resistance	2056.1666666666665
+USDA_RUN22_D14.BMF	Cell cycle - Caulobacter	6706
+USDA_RUN22_D14.BMF	Chloroalkane and chloroalkene degradation	381.6362179487179
+USDA_RUN22_D14.BMF	Citrate cycle (TCA cycle)	4512.816197691198
+USDA_RUN22_D14.BMF	Cyanoamino acid metabolism	573.0833333333334
+USDA_RUN22_D14.BMF	Cysteine and methionine metabolism	3774.975541125541
+USDA_RUN22_D14.BMF	D-Alanine metabolism	50.58333333333333
+USDA_RUN22_D14.BMF	D-Glutamine and D-glutamate metabolism	146.27777777777777
+USDA_RUN22_D14.BMF	DNA replication	1441.7142857142856
+USDA_RUN22_D14.BMF	Drug metabolism - other enzymes	530.1349206349206
+USDA_RUN22_D14.BMF	Fatty acid biosynthesis	1851.283333333333
+USDA_RUN22_D14.BMF	Fatty acid degradation	1173.766089418837
+USDA_RUN22_D14.BMF	Fatty acid metabolism	2573.7132048034523
+USDA_RUN22_D14.BMF	Fluorobenzoate degradation	12.266666666666666
+USDA_RUN22_D14.BMF	Folate biosynthesis	1026.3833333333334
+USDA_RUN22_D14.BMF	Fructose and mannose metabolism	1199.1049783549784
+USDA_RUN22_D14.BMF	Galactose metabolism	1010.4813852813852
+USDA_RUN22_D14.BMF	Geraniol degradation	139.7807486631016
+USDA_RUN22_D14.BMF	Glutathione metabolism	1844.3156565656566
+USDA_RUN22_D14.BMF	Glycerolipid metabolism	562.2039682539682
+USDA_RUN22_D14.BMF	Glycerophospholipid metabolism	688.0833333333334
+USDA_RUN22_D14.BMF	Glycine, serine and threonine metabolism	1507.3791125541125
+USDA_RUN22_D14.BMF	Glycolysis / Gluconeogenesis	7241.688021700523
+USDA_RUN22_D14.BMF	Glycosaminoglycan degradation	18.75
+USDA_RUN22_D14.BMF	Glyoxylate and dicarboxylate metabolism	2804.373287531182
+USDA_RUN22_D14.BMF	Histidine metabolism	308.4
+USDA_RUN22_D14.BMF	Homologous recombination	4305.214285714285
+USDA_RUN22_D14.BMF	Limonene and pinene degradation	73.23529411764706
+USDA_RUN22_D14.BMF	Lipoic acid metabolism	65.5
+USDA_RUN22_D14.BMF	Lipopolysaccharide biosynthesis	3447.6666666666665
+USDA_RUN22_D14.BMF	Lysine biosynthesis	597.3884920634921
+USDA_RUN22_D14.BMF	Lysine degradation	923.842750257998
+USDA_RUN22_D14.BMF	Metabolic pathways	75494.30151510428
+USDA_RUN22_D14.BMF	Methane metabolism	3752.1843975468973
+USDA_RUN22_D14.BMF	Microbial metabolism in diverse environments	15704.590656518401
+USDA_RUN22_D14.BMF	Mismatch repair	1863.5
+USDA_RUN22_D14.BMF	Monobactam biosynthesis	304.0492063492063
+USDA_RUN22_D14.BMF	Nicotinate and nicotinamide metabolism	1178.9952380952382
+USDA_RUN22_D14.BMF	Nitrogen metabolism	391.4462481962482
+USDA_RUN22_D14.BMF	Nitrotoluene degradation	25.5
+USDA_RUN22_D14.BMF	Novobiocin biosynthesis	412.66363636363633
+USDA_RUN22_D14.BMF	One carbon pool by folate	906.3214285714286
+USDA_RUN22_D14.BMF	Other glycan degradation	123.33333333333333
+USDA_RUN22_D14.BMF	Oxidative phosphorylation	19196.177777777775
+USDA_RUN22_D14.BMF	Pantothenate and CoA biosynthesis	508.0142857142857
+USDA_RUN22_D14.BMF	Pentose and glucuronate interconversions	1391.8055555555554
+USDA_RUN22_D14.BMF	Pentose phosphate pathway	2022.054256854257
+USDA_RUN22_D14.BMF	Peptidoglycan biosynthesis	1771.5
+USDA_RUN22_D14.BMF	Phenylalanine metabolism	758.9751443001443
+USDA_RUN22_D14.BMF	Phenylalanine, tyrosine and tryptophan biosynthesis	2956.9886363636365
+USDA_RUN22_D14.BMF	Phosphonate and phosphinate metabolism	93.5
+USDA_RUN22_D14.BMF	Phosphotransferase system (PTS)	12920.833333333334
+USDA_RUN22_D14.BMF	Porphyrin and chlorophyll metabolism	2474.233333333333
+USDA_RUN22_D14.BMF	Propanoate metabolism	3593.8599219751695
+USDA_RUN22_D14.BMF	Protein export	6475.333333333334
+USDA_RUN22_D14.BMF	Proximal tubule bicarbonate reclamation	39.77777777777778
+USDA_RUN22_D14.BMF	Purine metabolism	12866.418722943723
+USDA_RUN22_D14.BMF	Pyrimidine metabolism	9411.504761904762
+USDA_RUN22_D14.BMF	Pyruvate metabolism	6307.0739785068745
+USDA_RUN22_D14.BMF	Quorum sensing	11762.025
+USDA_RUN22_D14.BMF	Riboflavin metabolism	795.8333333333333
+USDA_RUN22_D14.BMF	Ribosome	101352
+USDA_RUN22_D14.BMF	RNA degradation	13635.290476190474
+USDA_RUN22_D14.BMF	Selenocompound metabolism	600.052380952381
+USDA_RUN22_D14.BMF	Starch and sucrose metabolism	8949.074747474748
+USDA_RUN22_D14.BMF	Streptomycin biosynthesis	242.21363636363637
+USDA_RUN22_D14.BMF	Styrene degradation	11.583333333333334
+USDA_RUN22_D14.BMF	Sulfur metabolism	808.1190476190476
+USDA_RUN22_D14.BMF	Sulfur relay system	454.3333333333333
+USDA_RUN22_D14.BMF	Synthesis and degradation of ketone bodies	1.9824561403508771
+USDA_RUN22_D14.BMF	Taurine and hypotaurine metabolism	186.5
+USDA_RUN22_D14.BMF	Terpenoid backbone biosynthesis	576.0157894736842
+USDA_RUN22_D14.BMF	Thiamine metabolism	305.3833333333333
+USDA_RUN22_D14.BMF	Tropane, piperidine and pyridine alkaloid biosynthesis	51.288636363636364
+USDA_RUN22_D14.BMF	Tryptophan metabolism	601.7792887195363
+USDA_RUN22_D14.BMF	Two-component system	21837.177910685805
+USDA_RUN22_D14.BMF	Tyrosine metabolism	559.934378121878
+USDA_RUN22_D14.BMF	Ubiquinone and other terpenoid-quinone biosynthesis	1041.6904761904761
+USDA_RUN22_D14.BMF	Valine, leucine and isoleucine biosynthesis	501.2440476190476
+USDA_RUN22_D14.BMF	Valine, leucine and isoleucine degradation	453.27709369234134
+USDA_RUN22_D14.BMF	Vancomycin resistance	98.5
+USDA_RUN22_D14.BMF	Vitamin B6 metabolism	437.6666666666667
+USDA_RUN22_D14.BMF	Xylene degradation	5.436507936507936
+USDA_RUN22_D14.BMF	NA	NA
+USDA_RUN22_D25.BAF	2-Oxocarboxylic acid metabolism	1787.536544011544
+USDA_RUN22_D25.BAF	ABC transporters	42625.5
+USDA_RUN22_D25.BAF	Alanine, aspartate and glutamate metabolism	2447.7931818181814
+USDA_RUN22_D25.BAF	Amino sugar and nucleotide sugar metabolism	6724.169696969697
+USDA_RUN22_D25.BAF	Aminoacyl-tRNA biosynthesis	13674
+USDA_RUN22_D25.BAF	Aminobenzoate degradation	18.995238095238093
+USDA_RUN22_D25.BAF	Arginine and proline metabolism	367.73333333333335
+USDA_RUN22_D25.BAF	Arginine biosynthesis	370.3146103896104
+USDA_RUN22_D25.BAF	Ascorbate and aldarate metabolism	387.6666666666667
+USDA_RUN22_D25.BAF	Atrazine degradation	6.033333333333333
+USDA_RUN22_D25.BAF	Bacterial chemotaxis	1727.5
+USDA_RUN22_D25.BAF	Bacterial secretion system	8022.500000000001
+USDA_RUN22_D25.BAF	Base excision repair	327.2142857142857
+USDA_RUN22_D25.BAF	Benzoate degradation	42.59453982549958
+USDA_RUN22_D25.BAF	beta-Alanine metabolism	28.670098039215688
+USDA_RUN22_D25.BAF	beta-Lactam resistance	9306.083333333334
+USDA_RUN22_D25.BAF	Biofilm formation - Escherichia coli	11899.758333333335
+USDA_RUN22_D25.BAF	Biofilm formation - Pseudomonas aeruginosa	2140.4249999999997
+USDA_RUN22_D25.BAF	Biofilm formation - Vibrio cholerae	6739.258333333333
+USDA_RUN22_D25.BAF	Biosynthesis of amino acids	9217.4272005772
+USDA_RUN22_D25.BAF	Biosynthesis of antibiotics	15155.385106203561
+USDA_RUN22_D25.BAF	Biosynthesis of secondary metabolites	25453.250582394037
+USDA_RUN22_D25.BAF	Biosynthesis of siderophore group nonribosomal peptides	95.6
+USDA_RUN22_D25.BAF	Biotin metabolism	2336.083333333333
+USDA_RUN22_D25.BAF	Butanoate metabolism	6716.396163202125
+USDA_RUN22_D25.BAF	C5-Branched dibasic acid metabolism	244.15079365079364
+USDA_RUN22_D25.BAF	Caprolactam degradation	4.411764705882353
+USDA_RUN22_D25.BAF	Carbon fixation in photosynthetic organisms	1936.508189033189
+USDA_RUN22_D25.BAF	Carbon fixation pathways in prokaryotes	2020.9000550618973
+USDA_RUN22_D25.BAF	Carbon metabolism	9962.336119079579
+USDA_RUN22_D25.BAF	Cationic antimicrobial peptide (CAMP) resistance	2005.8333333333333
+USDA_RUN22_D25.BAF	Cell cycle - Caulobacter	8898.5
+USDA_RUN22_D25.BAF	Chloroalkane and chloroalkene degradation	406.83493589743586
+USDA_RUN22_D25.BAF	Citrate cycle (TCA cycle)	3100.0806998556995
+USDA_RUN22_D25.BAF	Cyanoamino acid metabolism	701.5333333333333
+USDA_RUN22_D25.BAF	Cysteine and methionine metabolism	3017.368326118326
+USDA_RUN22_D25.BAF	D-Alanine metabolism	38.083333333333336
+USDA_RUN22_D25.BAF	D-Glutamine and D-glutamate metabolism	184.33333333333334
+USDA_RUN22_D25.BAF	DNA replication	1279.047619047619
+USDA_RUN22_D25.BAF	Drug metabolism - other enzymes	354.95238095238096
+USDA_RUN22_D25.BAF	Fatty acid biosynthesis	2482.45
+USDA_RUN22_D25.BAF	Fatty acid degradation	462.5961423896021
+USDA_RUN22_D25.BAF	Fatty acid metabolism	2515.911206492166
+USDA_RUN22_D25.BAF	Fluorobenzoate degradation	18.757142857142856
+USDA_RUN22_D25.BAF	Folate biosynthesis	857.4666666666667
+USDA_RUN22_D25.BAF	Fructose and mannose metabolism	1586.216883116883
+USDA_RUN22_D25.BAF	Galactose metabolism	1787.8668831168832
+USDA_RUN22_D25.BAF	Geraniol degradation	8.320855614973262
+USDA_RUN22_D25.BAF	Glutathione metabolism	2163.2418831168834
+USDA_RUN22_D25.BAF	Glycerolipid metabolism	465.23809523809524
+USDA_RUN22_D25.BAF	Glycerophospholipid metabolism	685.7619047619048
+USDA_RUN22_D25.BAF	Glycine, serine and threonine metabolism	1061.2825036075035
+USDA_RUN22_D25.BAF	Glycolysis / Gluconeogenesis	9090.347706460207
+USDA_RUN22_D25.BAF	Glycosaminoglycan degradation	8.75
+USDA_RUN22_D25.BAF	Glyoxylate and dicarboxylate metabolism	2352.2633334501757
+USDA_RUN22_D25.BAF	Histidine metabolism	277.85
+USDA_RUN22_D25.BAF	Homologous recombination	3991.5476190476193
+USDA_RUN22_D25.BAF	Limonene and pinene degradation	4.411764705882353
+USDA_RUN22_D25.BAF	Lipoic acid metabolism	32
+USDA_RUN22_D25.BAF	Lipopolysaccharide biosynthesis	9343.666666666666
+USDA_RUN22_D25.BAF	Lysine biosynthesis	589.4599206349206
+USDA_RUN22_D25.BAF	Lysine degradation	559.3140203449801
+USDA_RUN22_D25.BAF	Metabolic pathways	77176.96143820493
+USDA_RUN22_D25.BAF	Methane metabolism	4105.535732323233
+USDA_RUN22_D25.BAF	Microbial metabolism in diverse environments	19009.899461292916
+USDA_RUN22_D25.BAF	Mismatch repair	1747.3333333333333
+USDA_RUN22_D25.BAF	Monobactam biosynthesis	363.0015873015873
+USDA_RUN22_D25.BAF	Nicotinate and nicotinamide metabolism	1532.652380952381
+USDA_RUN22_D25.BAF	Nitrogen metabolism	1057.5332611832612
+USDA_RUN22_D25.BAF	Nitrotoluene degradation	35
+USDA_RUN22_D25.BAF	Novobiocin biosynthesis	60.448484848484846
+USDA_RUN22_D25.BAF	One carbon pool by folate	547.2904761904762
+USDA_RUN22_D25.BAF	Other glycan degradation	255.83333333333334
+USDA_RUN22_D25.BAF	Oxidative phosphorylation	11498.744444444443
+USDA_RUN22_D25.BAF	Pantothenate and CoA biosynthesis	368.2642857142857
+USDA_RUN22_D25.BAF	Pentose and glucuronate interconversions	3619.75
+USDA_RUN22_D25.BAF	Pentose phosphate pathway	2603.337049062049
+USDA_RUN22_D25.BAF	Peptidoglycan biosynthesis	1451.1666666666667
+USDA_RUN22_D25.BAF	Phenylalanine metabolism	251.69372294372295
+USDA_RUN22_D25.BAF	Phenylalanine, tyrosine and tryptophan biosynthesis	889.5234848484848
+USDA_RUN22_D25.BAF	Phosphonate and phosphinate metabolism	152.66666666666666
+USDA_RUN22_D25.BAF	Phosphotransferase system (PTS)	15180.666666666668
+USDA_RUN22_D25.BAF	Porphyrin and chlorophyll metabolism	2200.9166666666665
+USDA_RUN22_D25.BAF	Propanoate metabolism	7215.8968125527745
+USDA_RUN22_D25.BAF	Protein export	7944.500000000001
+USDA_RUN22_D25.BAF	Proximal tubule bicarbonate reclamation	6
+USDA_RUN22_D25.BAF	Purine metabolism	12550.661038961038
+USDA_RUN22_D25.BAF	Pyrimidine metabolism	9829.95
+USDA_RUN22_D25.BAF	Pyruvate metabolism	9084.090495177341
+USDA_RUN22_D25.BAF	Quorum sensing	13158.108333333332
+USDA_RUN22_D25.BAF	Riboflavin metabolism	813.9
+USDA_RUN22_D25.BAF	Ribosome	139456
+USDA_RUN22_D25.BAF	RNA degradation	13976.50476190476
+USDA_RUN22_D25.BAF	Selenocompound metabolism	618.7571428571429
+USDA_RUN22_D25.BAF	Starch and sucrose metabolism	10369.344696969698
+USDA_RUN22_D25.BAF	Streptomycin biosynthesis	540.6030303030303
+USDA_RUN22_D25.BAF	Styrene degradation	6.233333333333333
+USDA_RUN22_D25.BAF	Sulfur metabolism	1509.2738095238094
+USDA_RUN22_D25.BAF	Sulfur relay system	537.3333333333334
+USDA_RUN22_D25.BAF	Synthesis and degradation of ketone bodies	4.473684210526316
+USDA_RUN22_D25.BAF	Taurine and hypotaurine metabolism	215.91666666666666
+USDA_RUN22_D25.BAF	Terpenoid backbone biosynthesis	834.1736842105263
+USDA_RUN22_D25.BAF	Thiamine metabolism	382.25
+USDA_RUN22_D25.BAF	Tropane, piperidine and pyridine alkaloid biosynthesis	47.198484848484846
+USDA_RUN22_D25.BAF	Tryptophan metabolism	263.4296796856394
+USDA_RUN22_D25.BAF	Two-component system	13210.425199362042
+USDA_RUN22_D25.BAF	Tyrosine metabolism	489.2524683649683
+USDA_RUN22_D25.BAF	Ubiquinone and other terpenoid-quinone biosynthesis	927.5619047619048
+USDA_RUN22_D25.BAF	Valine, leucine and isoleucine biosynthesis	426.38095238095235
+USDA_RUN22_D25.BAF	Valine, leucine and isoleucine degradation	218.113984269944
+USDA_RUN22_D25.BAF	Vancomycin resistance	110.66666666666666
+USDA_RUN22_D25.BAF	Vitamin B6 metabolism	271.9583333333333
+USDA_RUN22_D25.BAF	Xylene degradation	3.095238095238095
+USDA_RUN22_D25.BAF	NA	NA
+USDA_RUN22_D27.BAF	2-Oxocarboxylic acid metabolism	776.11056998557
+USDA_RUN22_D27.BAF	ABC transporters	22764
+USDA_RUN22_D27.BAF	Alanine, aspartate and glutamate metabolism	1315.1967171717172
+USDA_RUN22_D27.BAF	Amino sugar and nucleotide sugar metabolism	3440.416161616162
+USDA_RUN22_D27.BAF	Aminoacyl-tRNA biosynthesis	7345.6
+USDA_RUN22_D27.BAF	Aminobenzoate degradation	18.295238095238094
+USDA_RUN22_D27.BAF	Arginine and proline metabolism	194.75
+USDA_RUN22_D27.BAF	Arginine biosynthesis	187.25386002886003
+USDA_RUN22_D27.BAF	Ascorbate and aldarate metabolism	106
+USDA_RUN22_D27.BAF	Atrazine degradation	3.3666666666666667
+USDA_RUN22_D27.BAF	Bacterial chemotaxis	788
+USDA_RUN22_D27.BAF	Bacterial secretion system	3379.833333333333
+USDA_RUN22_D27.BAF	Base excision repair	176.3452380952381
+USDA_RUN22_D27.BAF	Benzoate degradation	28.046282819347834
+USDA_RUN22_D27.BAF	beta-Alanine metabolism	12.75343137254902
+USDA_RUN22_D27.BAF	beta-Lactam resistance	5718.75
+USDA_RUN22_D27.BAF	Biofilm formation - Escherichia coli	5688.75
+USDA_RUN22_D27.BAF	Biofilm formation - Pseudomonas aeruginosa	997.625
+USDA_RUN22_D27.BAF	Biofilm formation - Vibrio cholerae	3365.2916666666665
+USDA_RUN22_D27.BAF	Biosynthesis of amino acids	4426.415331890332
+USDA_RUN22_D27.BAF	Biosynthesis of antibiotics	7551.986281709347
+USDA_RUN22_D27.BAF	Biosynthesis of secondary metabolites	11611.227154725218
+USDA_RUN22_D27.BAF	Biosynthesis of siderophore group nonribosomal peptides	32
+USDA_RUN22_D27.BAF	Biotin metabolism	1260.1666666666665
+USDA_RUN22_D27.BAF	Butanoate metabolism	2568.3231587212235
+USDA_RUN22_D27.BAF	C5-Branched dibasic acid metabolism	89.75396825396825
+USDA_RUN22_D27.BAF	Caprolactam degradation	1.4117647058823528
+USDA_RUN22_D27.BAF	Carbon fixation in photosynthetic organisms	933.5817821067822
+USDA_RUN22_D27.BAF	Carbon fixation pathways in prokaryotes	870.2722526012
+USDA_RUN22_D27.BAF	Carbon metabolism	4486.584880332945
+USDA_RUN22_D27.BAF	Cationic antimicrobial peptide (CAMP) resistance	1122.4166666666667
+USDA_RUN22_D27.BAF	Cell cycle - Caulobacter	4632.75
+USDA_RUN22_D27.BAF	Chloroalkane and chloroalkene degradation	213.5032051282051
+USDA_RUN22_D27.BAF	Citrate cycle (TCA cycle)	1351.0510822510823
+USDA_RUN22_D27.BAF	Cyanoamino acid metabolism	443.03333333333336
+USDA_RUN22_D27.BAF	Cysteine and methionine metabolism	1790.761616161616
+USDA_RUN22_D27.BAF	D-Alanine metabolism	19.583333333333332
+USDA_RUN22_D27.BAF	D-Glutamine and D-glutamate metabolism	57.77777777777778
+USDA_RUN22_D27.BAF	DNA replication	724.3452380952381
+USDA_RUN22_D27.BAF	Drug metabolism - other enzymes	194.1031746031746
+USDA_RUN22_D27.BAF	Fatty acid biosynthesis	1480.5
+USDA_RUN22_D27.BAF	Fatty acid degradation	231.98044032850532
+USDA_RUN22_D27.BAF	Fatty acid metabolism	1490.8272352003
+USDA_RUN22_D27.BAF	Fluorobenzoate degradation	8.247619047619047
+USDA_RUN22_D27.BAF	Folate biosynthesis	441.96666666666664
+USDA_RUN22_D27.BAF	Fructose and mannose metabolism	783.130303030303
+USDA_RUN22_D27.BAF	Galactose metabolism	902.6
+USDA_RUN22_D27.BAF	Geraniol degradation	2.502673796791444
+USDA_RUN22_D27.BAF	Glutathione metabolism	1062.0565295815295
+USDA_RUN22_D27.BAF	Glycerolipid metabolism	221.1079365079365
+USDA_RUN22_D27.BAF	Glycerophospholipid metabolism	287.04761904761904
+USDA_RUN22_D27.BAF	Glycine, serine and threonine metabolism	544.4157287157287
+USDA_RUN22_D27.BAF	Glycolysis / Gluconeogenesis	4432.956451881452
+USDA_RUN22_D27.BAF	Glycosaminoglycan degradation	12.75
+USDA_RUN22_D27.BAF	Glyoxylate and dicarboxylate metabolism	1009.9761098550572
+USDA_RUN22_D27.BAF	Histidine metabolism	111.7
+USDA_RUN22_D27.BAF	Homologous recombination	1605.7619047619048
+USDA_RUN22_D27.BAF	Limonene and pinene degradation	1.4117647058823528
+USDA_RUN22_D27.BAF	Lipoic acid metabolism	25
+USDA_RUN22_D27.BAF	Lipopolysaccharide biosynthesis	7271
+USDA_RUN22_D27.BAF	Lysine biosynthesis	329.69404761904764
+USDA_RUN22_D27.BAF	Lysine degradation	253.21846896653398
+USDA_RUN22_D27.BAF	Metabolic pathways	39114.63437250743
+USDA_RUN22_D27.BAF	Methane metabolism	1771.7517676767677
+USDA_RUN22_D27.BAF	Microbial metabolism in diverse environments	8340.248549996617
+USDA_RUN22_D27.BAF	Mismatch repair	848.0833333333333
+USDA_RUN22_D27.BAF	Monobactam biosynthesis	169.7238095238095
+USDA_RUN22_D27.BAF	Nicotinate and nicotinamide metabolism	965.3714285714286
+USDA_RUN22_D27.BAF	Nitrogen metabolism	742.9098124098124
+USDA_RUN22_D27.BAF	Nitrotoluene degradation	20.5
+USDA_RUN22_D27.BAF	Novobiocin biosynthesis	29.23939393939394
+USDA_RUN22_D27.BAF	One carbon pool by folate	283.87142857142857
+USDA_RUN22_D27.BAF	Other glycan degradation	135.75
+USDA_RUN22_D27.BAF	Oxidative phosphorylation	4810.729292929293
+USDA_RUN22_D27.BAF	Pantothenate and CoA biosynthesis	163.56190476190474
+USDA_RUN22_D27.BAF	Pentose and glucuronate interconversions	1311.4166666666667
+USDA_RUN22_D27.BAF	Pentose phosphate pathway	1367.0989898989899
+USDA_RUN22_D27.BAF	Peptidoglycan biosynthesis	1114.3333333333333
+USDA_RUN22_D27.BAF	Phenylalanine metabolism	155.7108225108225
+USDA_RUN22_D27.BAF	Phenylalanine, tyrosine and tryptophan biosynthesis	551.4310606060606
+USDA_RUN22_D27.BAF	Phosphonate and phosphinate metabolism	88.33333333333333
+USDA_RUN22_D27.BAF	Phosphotransferase system (PTS)	6822.583333333333
+USDA_RUN22_D27.BAF	Porphyrin and chlorophyll metabolism	1220.9333333333334
+USDA_RUN22_D27.BAF	Propanoate metabolism	2818.831023079088
+USDA_RUN22_D27.BAF	Protein export	3363.8333333333326
+USDA_RUN22_D27.BAF	Proximal tubule bicarbonate reclamation	4.777777777777778
+USDA_RUN22_D27.BAF	Purine metabolism	5986.6599567099565
+USDA_RUN22_D27.BAF	Pyrimidine metabolism	4618.659523809523
+USDA_RUN22_D27.BAF	Pyruvate metabolism	3869.3144603934074
+USDA_RUN22_D27.BAF	Quorum sensing	5824.491666666667
+USDA_RUN22_D27.BAF	Riboflavin metabolism	480.91666666666663
+USDA_RUN22_D27.BAF	Ribosome	55927
+USDA_RUN22_D27.BAF	RNA degradation	6305.700000000001
+USDA_RUN22_D27.BAF	Selenocompound metabolism	306.6142857142857
+USDA_RUN22_D27.BAF	Starch and sucrose metabolism	4344.516161616161
+USDA_RUN22_D27.BAF	Streptomycin biosynthesis	213.8939393939394
+USDA_RUN22_D27.BAF	Styrene degradation	0.5666666666666667
+USDA_RUN22_D27.BAF	Sulfur metabolism	833.797619047619
+USDA_RUN22_D27.BAF	Sulfur relay system	249
+USDA_RUN22_D27.BAF	Synthesis and degradation of ketone bodies	1.8245614035087718
+USDA_RUN22_D27.BAF	Taurine and hypotaurine metabolism	114.75
+USDA_RUN22_D27.BAF	Terpenoid backbone biosynthesis	355.7578947368421
+USDA_RUN22_D27.BAF	Thiamine metabolism	170.85
+USDA_RUN22_D27.BAF	Tropane, piperidine and pyridine alkaloid biosynthesis	25.73939393939394
+USDA_RUN22_D27.BAF	Tryptophan metabolism	128.91709534016036
+USDA_RUN22_D27.BAF	Two-component system	6962.620015948964
+USDA_RUN22_D27.BAF	Tyrosine metabolism	257.5259324009324
+USDA_RUN22_D27.BAF	Ubiquinone and other terpenoid-quinone biosynthesis	687.1619047619048
+USDA_RUN22_D27.BAF	Valine, leucine and isoleucine biosynthesis	191.28571428571428
+USDA_RUN22_D27.BAF	Valine, leucine and isoleucine degradation	111.67445742252244
+USDA_RUN22_D27.BAF	Vancomycin resistance	49
+USDA_RUN22_D27.BAF	Vitamin B6 metabolism	187.58333333333334
+USDA_RUN22_D27.BAF	Xylene degradation	5.404761904761904
+USDA_RUN22_D27.BAF	NA	NA
+USDA_RUN22_D28.BAF	2-Oxocarboxylic acid metabolism	1442.0693001443003
+USDA_RUN22_D28.BAF	ABC transporters	44658.5
+USDA_RUN22_D28.BAF	Alanine, aspartate and glutamate metabolism	2137.7383116883116
+USDA_RUN22_D28.BAF	Amino sugar and nucleotide sugar metabolism	4998.178282828283
+USDA_RUN22_D28.BAF	Aminoacyl-tRNA biosynthesis	15362.1
+USDA_RUN22_D28.BAF	Aminobenzoate degradation	7.023809523809524
+USDA_RUN22_D28.BAF	Arginine and proline metabolism	224.7
+USDA_RUN22_D28.BAF	Arginine biosynthesis	287.9133116883117
+USDA_RUN22_D28.BAF	Ascorbate and aldarate metabolism	214.83333333333334
+USDA_RUN22_D28.BAF	Atrazine degradation	9.4
+USDA_RUN22_D28.BAF	Bacterial chemotaxis	1766
+USDA_RUN22_D28.BAF	Bacterial secretion system	8467.833333333334
+USDA_RUN22_D28.BAF	Base excision repair	250.97619047619048
+USDA_RUN22_D28.BAF	Benzoate degradation	27.342608303289417
+USDA_RUN22_D28.BAF	beta-Alanine metabolism	25.563725490196077
+USDA_RUN22_D28.BAF	beta-Lactam resistance	6612.583333333333
+USDA_RUN22_D28.BAF	Biofilm formation - Escherichia coli	11644.766666666668
+USDA_RUN22_D28.BAF	Biofilm formation - Pseudomonas aeruginosa	1743.5
+USDA_RUN22_D28.BAF	Biofilm formation - Vibrio cholerae	5184.416666666667
+USDA_RUN22_D28.BAF	Biosynthesis of amino acids	8077.191414141415
+USDA_RUN22_D28.BAF	Biosynthesis of antibiotics	13911.272997358674
+USDA_RUN22_D28.BAF	Biosynthesis of secondary metabolites	21716.33331481899
+USDA_RUN22_D28.BAF	Biosynthesis of siderophore group nonribosomal peptides	203.73333333333332
+USDA_RUN22_D28.BAF	Biotin metabolism	2714.4166666666665
+USDA_RUN22_D28.BAF	Butanoate metabolism	5800.199498635181
+USDA_RUN22_D28.BAF	C5-Branched dibasic acid metabolism	236.29365079365078
+USDA_RUN22_D28.BAF	Caprolactam degradation	4.647058823529412
+USDA_RUN22_D28.BAF	Carbon fixation in photosynthetic organisms	1905.9233044733044
+USDA_RUN22_D28.BAF	Carbon fixation pathways in prokaryotes	1859.560412394623
+USDA_RUN22_D28.BAF	Carbon metabolism	9410.756472217154
+USDA_RUN22_D28.BAF	Cationic antimicrobial peptide (CAMP) resistance	1623.9166666666667
+USDA_RUN22_D28.BAF	Cell cycle - Caulobacter	6915.5
+USDA_RUN22_D28.BAF	Chloroalkane and chloroalkene degradation	428.9358974358974
+USDA_RUN22_D28.BAF	Citrate cycle (TCA cycle)	2816.6073593073593
+USDA_RUN22_D28.BAF	Cyanoamino acid metabolism	683.1666666666666
+USDA_RUN22_D28.BAF	Cysteine and methionine metabolism	1016.3709235209235
+USDA_RUN22_D28.BAF	D-Alanine metabolism	30.583333333333332
+USDA_RUN22_D28.BAF	D-Glutamine and D-glutamate metabolism	97.5
+USDA_RUN22_D28.BAF	DNA replication	938.4761904761905
+USDA_RUN22_D28.BAF	Drug metabolism - other enzymes	300.3333333333333
+USDA_RUN22_D28.BAF	Fatty acid biosynthesis	3148.1833333333334
+USDA_RUN22_D28.BAF	Fatty acid degradation	471.91501367569475
+USDA_RUN22_D28.BAF	Fatty acid metabolism	3164.562449573131
+USDA_RUN22_D28.BAF	Fluorobenzoate degradation	8.857142857142856
+USDA_RUN22_D28.BAF	Folate biosynthesis	650.1333333333333
+USDA_RUN22_D28.BAF	Fructose and mannose metabolism	1395.832683982684
+USDA_RUN22_D28.BAF	Galactose metabolism	1526.2614718614718
+USDA_RUN22_D28.BAF	Geraniol degradation	7.0106951871657754
+USDA_RUN22_D28.BAF	Glutathione metabolism	1774.0007575757577
+USDA_RUN22_D28.BAF	Glycerolipid metabolism	439.3325396825397
+USDA_RUN22_D28.BAF	Glycerophospholipid metabolism	585.8571428571429
+USDA_RUN22_D28.BAF	Glycine, serine and threonine metabolism	871.5290043290042
+USDA_RUN22_D28.BAF	Glycolysis / Gluconeogenesis	7593.854548229549
+USDA_RUN22_D28.BAF	Glycosaminoglycan degradation	16.75
+USDA_RUN22_D28.BAF	Glyoxylate and dicarboxylate metabolism	1954.6963542305648
+USDA_RUN22_D28.BAF	Histidine metabolism	265.7
+USDA_RUN22_D28.BAF	Homologous recombination	3029.309523809524
+USDA_RUN22_D28.BAF	Limonene and pinene degradation	4.647058823529412
+USDA_RUN22_D28.BAF	Lipoic acid metabolism	44.5
+USDA_RUN22_D28.BAF	Lipopolysaccharide biosynthesis	4105.5
+USDA_RUN22_D28.BAF	Lysine biosynthesis	561.3920634920635
+USDA_RUN22_D28.BAF	Lysine degradation	517.68809892378
+USDA_RUN22_D28.BAF	Metabolic pathways	62969.9764494621
+USDA_RUN22_D28.BAF	Methane metabolism	3771.51020923521
+USDA_RUN22_D28.BAF	Microbial metabolism in diverse environments	17368.79838308406
+USDA_RUN22_D28.BAF	Mismatch repair	1653.1666666666665
+USDA_RUN22_D28.BAF	Monobactam biosynthesis	345.24920634920636
+USDA_RUN22_D28.BAF	Nicotinate and nicotinamide metabolism	638.0761904761905
+USDA_RUN22_D28.BAF	Nitrogen metabolism	833.9414862914863
+USDA_RUN22_D28.BAF	Nitrotoluene degradation	24.5
+USDA_RUN22_D28.BAF	Novobiocin biosynthesis	33.22727272727273
+USDA_RUN22_D28.BAF	One carbon pool by folate	518.4142857142857
+USDA_RUN22_D28.BAF	Other glycan degradation	212.83333333333334
+USDA_RUN22_D28.BAF	Oxidative phosphorylation	11155.771717171716
+USDA_RUN22_D28.BAF	Pantothenate and CoA biosynthesis	288.00873015873015
+USDA_RUN22_D28.BAF	Pentose and glucuronate interconversions	3353.3888888888887
+USDA_RUN22_D28.BAF	Pentose phosphate pathway	2084.675974025974
+USDA_RUN22_D28.BAF	Peptidoglycan biosynthesis	803.9166666666666
+USDA_RUN22_D28.BAF	Phenylalanine metabolism	212.20386002886002
+USDA_RUN22_D28.BAF	Phenylalanine, tyrosine and tryptophan biosynthesis	577.7439393939394
+USDA_RUN22_D28.BAF	Phosphonate and phosphinate metabolism	178.5
+USDA_RUN22_D28.BAF	Phosphotransferase system (PTS)	13603.25
+USDA_RUN22_D28.BAF	Porphyrin and chlorophyll metabolism	2016.8999999999999
+USDA_RUN22_D28.BAF	Propanoate metabolism	6672.679368765052
+USDA_RUN22_D28.BAF	Protein export	8462.666666666668
+USDA_RUN22_D28.BAF	Proximal tubule bicarbonate reclamation	5.333333333333333
+USDA_RUN22_D28.BAF	Purine metabolism	11231.593290043289
+USDA_RUN22_D28.BAF	Pyrimidine metabolism	9437.609523809524
+USDA_RUN22_D28.BAF	Pyruvate metabolism	8490.302620186832
+USDA_RUN22_D28.BAF	Quorum sensing	12950.316666666666
+USDA_RUN22_D28.BAF	Riboflavin metabolism	469.04999999999995
+USDA_RUN22_D28.BAF	Ribosome	147829
+USDA_RUN22_D28.BAF	RNA degradation	16589.65238095238
+USDA_RUN22_D28.BAF	Selenocompound metabolism	624.1142857142858
+USDA_RUN22_D28.BAF	Starch and sucrose metabolism	7711.628282828283
+USDA_RUN22_D28.BAF	Streptomycin biosynthesis	411.98939393939395
+USDA_RUN22_D28.BAF	Styrene degradation	5.75
+USDA_RUN22_D28.BAF	Sulfur metabolism	1306.3142857142857
+USDA_RUN22_D28.BAF	Sulfur relay system	518.2666666666667
+USDA_RUN22_D28.BAF	Synthesis and degradation of ketone bodies	2.7017543859649122
+USDA_RUN22_D28.BAF	Taurine and hypotaurine metabolism	222.08333333333334
+USDA_RUN22_D28.BAF	Terpenoid backbone biosynthesis	913.3684210526316
+USDA_RUN22_D28.BAF	Thiamine metabolism	374.93333333333334
+USDA_RUN22_D28.BAF	Tropane, piperidine and pyridine alkaloid biosynthesis	41.43560606060606
+USDA_RUN22_D28.BAF	Tryptophan metabolism	184.59240295308408
+USDA_RUN22_D28.BAF	Two-component system	10541.057814992026
+USDA_RUN22_D28.BAF	Tyrosine metabolism	524.2881701631701
+USDA_RUN22_D28.BAF	Ubiquinone and other terpenoid-quinone biosynthesis	473.40714285714284
+USDA_RUN22_D28.BAF	Valine, leucine and isoleucine biosynthesis	335.3194444444444
+USDA_RUN22_D28.BAF	Valine, leucine and isoleucine degradation	150.69856068424178
+USDA_RUN22_D28.BAF	Vancomycin resistance	84.41666666666666
+USDA_RUN22_D28.BAF	Vitamin B6 metabolism	262.4583333333333
+USDA_RUN22_D28.BAF	Xylene degradation	2.8015873015873014
+USDA_RUN22_D28.BAF	NA	NA

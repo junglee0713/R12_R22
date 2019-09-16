@@ -1,0 +1,450 @@
+---
+title: "USDA RNAseq"
+author: "CHOP Microbiome Center"
+date: Sep 16, 2019
+output:
+  pdf_document:
+    toc: yes
+    toc_depth: 4
+    fig_caption: false
+    includes:
+      in_header: "../../6_Misc/R_utils/TeX_packages_commands.sty"
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(
+  echo = FALSE,
+  cache = FALSE,
+  warning = FALSE,
+  message = FALSE,
+  fig.align = "center",
+  dpi = 100)
+library(tidyverse)
+library(pheatmap)
+library(grid)
+library(pander)
+library(stringr)
+library(qiimer)
+library(vegan)
+library(ape)
+library(colorRamps)
+library(RColorBrewer)
+library(ggbeeswarm)
+library(ggrepel)
+library(viridis)
+library(ggmosaic)
+library(VennDiagram)
+library(grDevices)
+library(ggsci)
+library(ggforce)
+```
+
+```{r}
+source("../../6_Misc/R_utils/helper_functions.R")
+```
+
+```{r}
+## sample list
+sample_list <- c("D12", "D13", "D14", "D25", "D27", "D28")
+
+## Run list
+run_list <- c("RUN12", "RUN22")
+
+## pathway ID and pathway name
+pathway_names <- read_tsv("map_title.tab", col_names = c("PathwayID", "PathwayName")) %>%
+  mutate(PathwayID = paste0("path:map", PathwayID))
+
+## KO definition
+KO_def <- read_tsv("Knumber_Definition.txt", col_names = F) %>%
+  setNames(c("Ortholog", "OrthologDefinition")) %>%
+  mutate(Ortholog = str_remove(Ortholog, "ko:"))
+
+## link between KO and pathway. 
+## Weight should be considered as a single K number may correspond to multiple pathways.
+kegg_path <- read_tsv("ko_pathway.list", col_names = F) %>%
+  setNames(c("Ortholog", "PathwayID")) %>%
+  mutate(Ortholog = str_remove(Ortholog, "ko:")) %>%
+  filter(str_detect(PathwayID, "path:map")) %>%
+  left_join(pathway_names, by = "PathwayID") %>%
+  left_join(KO_def, by = "Ortholog") %>%
+  select(Ortholog, OrthologDefinition, PathwayID, PathwayName)
+```
+
+\newpage
+
+# Reads breakdown
+
+**N_demux**: Number of reads after demultiplexing 
+
+**N_GeneHit**: Number of reads that were mapped to KEGG database
+
+**N_KO_avail**: Number of reads with K number available
+
+```{r}
+N_df <- read_tsv("hits_breakdown.tsv") 
+N_df %>%
+  select(RunSampleID, N_demux, N_GeneHit, N_KO_avail) %>% 
+  pander(split.tables = Inf, split.cells = Inf)
+```
+
+\newpage
+
+\blandscape
+
+# Genes that are associated with secondary bile acid biosynthesis (PathwayID: `path:map00121`)
+
+## List of genes associated with secondary bile acid biosynthesis 
+
+```{r}
+df <- kegg_path %>%
+  filter(PathwayID == "path:map00121") %>%
+  select(PathwayName, Ortholog, OrthologDefinition) 
+secondaryBileAcidKNumbers <- df$Ortholog
+```
+
+`r nrow(df)` genes are associated with secondary bile acid biosysthesis
+
+```{r}
+pander(df, split.tables = Inf, split.cells = Inf)
+```
+
+```{r fig1, eval = F}
+all_DF_list <- list()
+count <- 0
+for (i in 1:length(run_list)) {
+  currentRun <- run_list[i]  
+  allFilesInCurrentRun <- dir(file.path("Data", paste0("USDA_", currentRun)))
+  for (j in 1:length(sample_list)) {
+    count <- count + 1
+    currentSample <- sample_list[j]
+    currentFileName <- allFilesInCurrentRun[str_detect(allFilesInCurrentRun, currentSample)] 
+    currentFilePath <- paste0(file.path("Data", paste0("USDA_", currentRun)), "/", currentFileName)
+    currDF <- read_tsv(currentFilePath) %>%
+      filter(Ortholog %in% secondaryBileAcidKNumbers) %>%
+      mutate(RunSampleID = paste0(Run, "_", SampleID)) %>%
+      count(RunSampleID, Ortholog) %>%
+      left_join(N_df %>% select(RunSampleID, N_demux), by = "RunSampleID") %>%
+      mutate(OrthologRelativeAbundance = n/N_demux)
+    all_DF_list[[count]] <- currDF
+    print(paste(currentRun, currentSample, "done"))
+  }
+}
+
+all_DF <- bind_rows(all_DF_list)
+write_tsv(all_DF, "secondary_bile_acid_genes_relative_abundance.tsv")
+```
+
+```{r}
+secBileGene <- read_tsv("secondary_bile_acid_genes_relative_abundance.tsv")
+
+dWide <- secBileGene %>%
+  mutate(Run = str_extract(RunSampleID, "RUN[0-9]+")) %>%
+  mutate(StudyDay = str_extract(RunSampleID, "D[0-9]+")) %>%
+  select(-RunSampleID, -n, -N_demux) %>%
+  spread(key = Ortholog, value = OrthologRelativeAbundance, fill = 1e-10)
+
+dLong <- dWide %>%
+  gather(key = Ortholog, value = OrthologRelativeAbundance, -Run, -StudyDay)
+```
+
+`r length(unique(dLong$Ortholog))` genes -- `r unique(dLong$Ortholog)` -- were detected in the data.
+
+\elandscape
+
+\newpage
+
+## Difference in expression level
+
+```{r}
+models <- dLong %>%
+  spread(key = Run, value = OrthologRelativeAbundance) %>%
+  mutate(log2_RNA_over_DNA = log2(RUN22/RUN12)) %>%
+  mutate(StudyDayGroup = case_when(StudyDay %in% c("D12", "D13", "D14") ~ "Days 12, 13, 14",
+                                   StudyDay %in% c("D25", "D27", "D28") ~ "Days 25, 27, 28")) %>%
+  group_by(Ortholog) %>%
+  do(fit = lm(log2_RNA_over_DNA ~ StudyDayGroup, data = .))
+
+summaries <- lapply(1:length(models$fit),
+                    function(x) data.frame(summary(models$fit[[x]])$coef,
+                                           Term = rownames(summary(models$fit[[x]])$coef), 
+                                           Ortholog = models$Ortholog[[x]],
+                                           CI95 = confint(models$fit[[x]]), 
+                                           stringsAsFactors = F))
+
+summaries_df <- bind_rows(summaries) %>%
+  filter(Term != "(Intercept)") %>%
+  mutate(Term = "12,13,14 $\\rightarrow$ 25,27,28") %>%
+  mutate(Estimate = round(Estimate, 2)) %>%
+  mutate(CI95_lwr = round(CI95.2.5.., 2)) %>%
+  mutate(CI95_upr = round(CI95.97.5.., 2)) %>%
+  rename(`$p$-value` = Pr...t..) %>%
+  mutate(FDR = p.adjust(`$p$-value`, method = "BH")) %>%
+  mutate(Sig.Label = ifelse(FDR < 0.05, "*", "")) %>%
+  arrange(Estimate) %>%
+  select(Ortholog, Term, Estimate, CI95_lwr, CI95_upr, `$p$-value`, FDR) %>%
+  mutate(Ortholog = factor(Ortholog, levels = Ortholog[order(Estimate)])) %>%
+  mutate(FDR_cat = case_when(FDR < 0.01 ~ "p.adj < 0.01",
+                             FDR >= 0.01 & FDR < 0.02 ~ "0.01 <= p.adj < 0.02",
+                             FDR >= 0.02 & FDR < 0.03 ~ "0.02 <= p.adj < 0.03",
+                             FDR >= 0.03 & FDR < 0.04 ~ "0.03 <= p.adj < 0.04",
+                             FDR >= 0.04 & FDR < 0.05 ~ "0.04 <= p.adj < 0.05",
+                             FDR >= 0.05 ~ "0.05 <= p.adj")) %>%
+  as.data.frame() 
+```
+
+$\log_2$ (RNA abundance / DNA abundance) of `r length(unique(dLong$Ortholog))` genes was tested for association with aerobicity. Below is a summary of result for all `r nrow(summaries_df)` genes. 
+
+```{r, fig.height = 4.5}
+g <- dLong %>%
+  spread(key = Run, value = OrthologRelativeAbundance) %>%
+  mutate(log2_RNA_over_DNA = log2(RUN22/RUN12)) %>%
+  mutate(StudyDayGroup = case_when(StudyDay %in% c("D12", "D13", "D14") ~ "Days 12, 13, 14",
+                                   StudyDay %in% c("D25", "D27", "D28") ~ "Days 25, 27, 28")) %>%
+  ggplot(aes(StudyDayGroup, log2_RNA_over_DNA, color = StudyDay)) +
+  geom_jitter(width = 0.15) +
+  theme(axis.text.x = element_text(angle = 90, hjust = 0, vjust = 0.5)) +
+  facet_wrap(~Ortholog)
+
+print(g)
+```
+
+\bigskip
+
+Difference below indicates change from `Days 12, 13, 14` to `Days 25, 27, 28`.
+
+```{r, fig.height = 3}
+g <- ggplot(summaries_df, aes(Estimate, Ortholog, color = FDR_cat)) +
+  geom_point() +
+  geom_errorbarh(aes(xmax = CI95_upr, xmin = CI95_lwr), height = 0.2) +
+  geom_vline(xintercept = 0, lty = "dashed") +
+  theme(aspect.ratio = 1) +
+  labs(x = "Difference in expression level:\nDifference in log2 (RNA abundance / DNA abundance)",
+       color = "FDR adjusted\np-value") 
+
+print(g)
+```
+
+\newpage
+
+# Pathway abundance
+
+## Absolute abundance
+
+```{r}
+avg_cut <- 2
+pct_cut <- 20
+
+s <- read_tsv("Number_of_KO_per_Pathway.tsv") 
+
+avg_ko <- s %>%
+  gather(key = RunSample, value = N_unique_KO, -PathwayID, -PathwayName, -N_KO_KEGG_DATABASE) %>%
+  group_by(PathwayID) %>%
+  summarize(avg_unique_KO_per_sample = mean(N_unique_KO))
+
+pathway_filtered <- s %>%
+  left_join(avg_ko, by = "PathwayID") %>%
+  mutate(avg_unique_KO_pct = 100*avg_unique_KO_per_sample/N_KO_KEGG_DATABASE) %>%
+  filter(avg_unique_KO_per_sample > avg_cut) %>%
+  filter(avg_unique_KO_pct > pct_cut)
+
+kegg_path_wt <- read_tsv("ko_pathway.list", col_names = F) %>%
+  setNames(c("Ortholog", "PathwayID")) %>%
+  mutate(Ortholog = str_remove(Ortholog, "ko:")) %>%
+  filter(str_detect(PathwayID, "path:map")) %>%
+  left_join(pathway_names, by = "PathwayID") %>%
+  group_by(Ortholog) %>%
+  mutate(Weight = 1 / n()) %>%
+  ungroup() 
+
+kegg_path_filtered <- kegg_path_wt %>%
+  filter(PathwayID %in% pathway_filtered$PathwayID)
+```
+
+```{r, eval = F}
+abund_DF_list <- list()
+count <- 0
+for (i in 1:length(run_list)) {
+  currentRun <- run_list[i]  
+  allFilesInCurrentRun <- dir(file.path("Data", paste0("USDA_", currentRun)))
+  for (j in 1:length(sample_list)) {
+    count <- count + 1
+    currentSample <- sample_list[j]
+    currentFileName <- allFilesInCurrentRun[str_detect(allFilesInCurrentRun, currentSample)] 
+    currentFilePath <- paste0(file.path("Data", paste0("USDA_", currentRun)), "/", currentFileName)
+    currDF <- read_tsv(currentFilePath) %>%
+      left_join(kegg_path_filtered, by = "Ortholog") %>%
+      filter(!is.na(PathwayID)) %>%
+      mutate(RunSampleID = paste0(Run, "_", SampleID)) %>%
+      group_by(RunSampleID, PathwayID) %>%
+      summarize(weightedSum = sum(Weight)) 
+    abund_DF_list[[count]] <- currDF
+    print(paste(currentRun, currentSample, "done"))
+  }
+}
+abund_DF <- bind_rows(abund_DF_list)
+write_tsv(abund_DF, "pathway_absolute_abundance.tsv")
+```
+
+```{r}
+pathwayAbund <- read_tsv("pathway_absolute_abundance.tsv") %>%
+  mutate(Run = str_extract(RunSampleID, "RUN[0-9]+")) %>%
+  mutate(StudyDay = str_extract(RunSampleID, "D[0-9]+")) %>%
+  left_join(kegg_path_filtered %>% select(PathwayID, PathwayName) %>% unique(), by = "PathwayID") %>%
+  left_join(N_df %>% select(RunSampleID, N_demux), by = "RunSampleID") %>%
+  mutate(relWeightedSum = weightedSum / N_demux)
+```
+
+```{r}
+pa_avg <- pathwayAbund %>%
+  group_by(PathwayName) %>%
+  summarize(avg_wtSum = mean(weightedSum)) %>%
+  arrange(avg_wtSum)
+```
+
+```{r, fig.height = 8}
+g <- pathwayAbund %>%
+  mutate(PathwayName = factor(PathwayName, levels = pa_avg$PathwayName)) %>%
+  ggplot(aes(weightedSum, PathwayName, shape = Run, color = StudyDay)) +
+  geom_point() +
+  scale_shape_manual(values = c(1, 19)) +
+  scale_color_npg() +
+  scale_x_log10() +
+  theme(axis.text = element_text(size = 5))
+print(g)
+```
+
+\newpage
+
+## Relative abundance
+
+```{r}
+pa_rel_avg <- pathwayAbund %>%
+  group_by(PathwayName) %>%
+  summarize(avg_relWtSum = mean(relWeightedSum)) %>%
+  arrange(avg_relWtSum)
+```
+
+```{r, fig.height = 8}
+g <- pathwayAbund %>%
+  mutate(PathwayName = factor(PathwayName, levels = pa_rel_avg$PathwayName)) %>%
+  ggplot(aes(relWeightedSum, PathwayName, shape = Run, color = StudyDay)) +
+  geom_point() +
+  scale_shape_manual(values = c(1, 19)) +
+  scale_color_npg() +
+  scale_x_log10() +
+  theme(axis.text = element_text(size = 5))
+print(g)
+```
+
+\newpage
+
+# Genes from Klebsiella
+
+```{r, eval = F}
+K_DF_list <- list()
+count <- 0
+for (i in 1:length(run_list)) {
+  currentRun <- run_list[i]  
+  allFilesInCurrentRun <- dir(file.path("Data", paste0("USDA_", currentRun)))
+  allKlebFilesInCurrentRun <- dir(file.path("Data", paste0("bowtie_", currentRun))) 
+  allKlebFilesInCurrentRun <- allKlebFilesInCurrentRun[str_detect(allKlebFilesInCurrentRun, "_R1.mapped.fasta")]
+  for (j in 1:length(sample_list)) {
+    count <- count + 1
+    currentSample <- sample_list[j]
+    currentFileName <- allFilesInCurrentRun[str_detect(allFilesInCurrentRun, currentSample)] 
+    currentFilePath <- paste0(file.path("Data", paste0("USDA_", currentRun)), "/", currentFileName)
+    currentKlebFileName <- allKlebFilesInCurrentRun[str_detect(allKlebFilesInCurrentRun, currentSample)] 
+    currentKlebFilePath <- paste0(file.path("Data", paste0("bowtie_", currentRun)), "/", currentKlebFileName)
+    
+    currDF <- read_tsv(currentFilePath)
+    currKlebQuery <- read_tsv(currentKlebFilePath, col_names = F) %>%
+      filter(str_detect(X1, "^>")) %>%
+      mutate(X1 = str_remove_all(X1, "^>")) %>%
+      rename(query = X1)
+      
+    outDF <- currKlebQuery %>%
+      inner_join(currDF, by = "query") %>%
+      select(-Species) %>%
+      mutate(RunSampleID = paste0(Run, "_", SampleID)) %>%
+      left_join(kegg_path_filtered, by = "Ortholog") %>%
+      group_by(RunSampleID, PathwayName) %>%
+      summarize(wtSum = sum(Weight))
+       
+    K_DF_list[[count]] <- outDF
+    print(paste(currentRun, currentSample, "done"))
+  }
+}
+
+all_K_DF <- bind_rows(K_DF_list)
+write_tsv(all_K_DF, "Klebsiella.tsv")
+```
+
+```{r}
+Kleb_abundance <- read_tsv("Klebsiella.tsv") %>%
+  filter(!is.na(PathwayName)) %>%
+  mutate(Run = str_extract(RunSampleID, "RUN[0-9]+")) %>%
+  mutate(StudyDay = str_extract(RunSampleID, "D[0-9]+")) %>%
+  left_join(kegg_path_filtered %>% select(PathwayID, PathwayName) %>% unique(), by = "PathwayName") %>%
+  left_join(N_df %>% select(RunSampleID, N_demux), by = "RunSampleID") %>%
+  mutate(relWeightedSum = wtSum / N_demux)
+```
+
+```{r}
+d_long <- Kleb_abundance %>%
+  mutate(Prop = relWeightedSum) %>%
+  select(Run, Prop, StudyDay, PathwayName) %>%
+  spread(key = Run, value = Prop) %>%
+  mutate(log2_RNA_over_DNA = log2(RUN22 / RUN12)) %>%
+  mutate(StudyDayGroup = case_when(StudyDay %in% c("D12", "D13", "D14") ~ "Days 12, 13, 14",
+                                   StudyDay %in% c("D25", "D27", "D28") ~ "Days 25, 27, 28")) 
+```
+
+
+```{r}
+models <- d_long %>%
+  group_by(PathwayName) %>%
+  do(fit = lm(log2_RNA_over_DNA ~ StudyDayGroup, data = .))
+
+summaries <- lapply(1:length(models$fit),
+                    function(x) data.frame(summary(models$fit[[x]])$coef,
+                                           Term = rownames(summary(models$fit[[x]])$coef), 
+                                           Pathway = models$PathwayName[[x]],
+                                           CI95 = confint(models$fit[[x]]), 
+                                           stringsAsFactors = F))
+
+summaries_df <- bind_rows(summaries) %>%
+  filter(Term != "(Intercept)") %>%
+  mutate(Term = "12,13,14 $\\rightarrow$ 25,27,28") %>%
+  mutate(Estimate = round(Estimate, 2)) %>%
+  mutate(CI95_lwr = round(CI95.2.5.., 2)) %>%
+  mutate(CI95_upr = round(CI95.97.5.., 2)) %>%
+  rename(`$p$-value` = Pr...t..) %>%
+  mutate(FDR = p.adjust(`$p$-value`, method = "BH")) %>%
+  mutate(Sig.Label = ifelse(FDR < 0.05, "*", "")) %>%
+  arrange(Estimate) %>%
+  select(Pathway, Term, Estimate, CI95_lwr, CI95_upr, `$p$-value`, FDR) %>%
+  mutate(Pathway = factor(Pathway, levels = Pathway[order(Estimate)])) %>%
+  mutate(FDR_cat = case_when(FDR < 0.01 ~ "p.adj < 0.01",
+                             FDR >= 0.01 & FDR < 0.02 ~ "0.01 <= p.adj < 0.02",
+                             FDR >= 0.02 & FDR < 0.03 ~ "0.02 <= p.adj < 0.03",
+                             FDR >= 0.03 & FDR < 0.04 ~ "0.03 <= p.adj < 0.04",
+                             FDR >= 0.04 & FDR < 0.05 ~ "0.04 <= p.adj < 0.05",
+                             FDR >= 0.05 ~ "0.05 <= p.adj")) %>%
+  as.data.frame() 
+```
+
+$\log_2$ (RNA abundance / DNA abundance) of pathways was tested for association with aerobic/anaerobic condition. Below is a summary of result for all `r nrow(summaries_df)` pathways. Difference below indicates change from `Days 12, 13, 14` to `Days 25, 27, 28`.
+
+```{r, fig.height = 8}
+g <- ggplot(summaries_df, aes(Estimate, Pathway, color = FDR_cat)) +
+  geom_point() +
+  geom_errorbarh(aes(xmax = CI95_upr, xmin = CI95_lwr)) +
+  geom_vline(xintercept = 0, lty = "dashed") +
+  theme(axis.text.y = element_text(size = 6),
+        legend.title = element_text(size = 8),
+        legend.text = element_text(size = 6)) + 
+  labs(x = "Difference in expression level:\nDifference in log2 (RNA abundance / DNA abundance)",
+       color = "FDR adjusted\np-value") 
+
+print(g)
+```

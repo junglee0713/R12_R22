@@ -8,6 +8,6 @@ for RUN in RUN12 RUN22; do
         FILE_PATH="${IN_DIR}/${FILE}"
         PREFIX=${FILE/_R1.mapped.fasta/}
         OUTFILE_PATH="${OUT_DIR}/${RUN}_${PREFIX}.Klebsiella_query.txt"
-        grep "^>" ${FILE_PATH} > ${OUTFILE_PATH}
+        grep "^>" ${FILE_PATH} | sed 's/^>//g' > ${OUTFILE_PATH}
     done
 done

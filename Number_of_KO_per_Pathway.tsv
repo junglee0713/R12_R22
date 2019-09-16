@@ -1,0 +1,285 @@
+PathwayID	PathwayName	N_KO_KEGG_DATABASE	N_KO_RUN12_D12.BAF	N_KO_RUN12_D13.BAF	N_KO_RUN12_D14.BAF	N_KO_RUN12_D25.BAF	N_KO_RUN12_D27.BAF	N_KO_RUN12_D28.BAF	N_KO_RUN22_D12.BAF	N_KO_RUN22_D13.BAF	N_KO_RUN22_D14.BMF	N_KO_RUN22_D25.BAF	N_KO_RUN22_D27.BAF	N_KO_RUN22_D28.BAF
+path:map00010	Glycolysis / Gluconeogenesis	103	65	65	67	63	64	63	63	66	64	67	67	70
+path:map00020	Citrate cycle (TCA cycle)	58	42	43	42	41	41	42	40	41	41	41	41	42
+path:map00030	Pentose phosphate pathway	83	46	46	47	46	46	48	43	47	47	49	47	48
+path:map00040	Pentose and glucuronate interconversions	79	42	41	43	41	43	42	45	44	45	43	45	46
+path:map00051	Fructose and mannose metabolism	109	55	55	57	55	55	55	59	60	58	61	63	66
+path:map00052	Galactose metabolism	78	46	45	47	45	45	46	45	45	44	46	47	47
+path:map00053	Ascorbate and aldarate metabolism	50	18	18	19	18	18	19	19	19	19	19	19	21
+path:map00061	Fatty acid biosynthesis	33	18	18	18	18	17	17	18	19	21	19	20	21
+path:map00071	Fatty acid degradation	58	16	16	16	16	16	16	19	20	19	21	21	21
+path:map00072	Synthesis and degradation of ketone bodies	8	6	6	6	6	6	6	6	5	6	6	6	6
+path:map00100	Steroid biosynthesis	31	0	0	0	0	0	0	1	1	1	1	0	1
+path:map00120	Primary bile acid biosynthesis	18	1	1	1	1	1	1	1	1	1	1	1	1
+path:map00121	Secondary bile acid biosynthesis	14	4	5	4	5	3	4	4	4	4	4	4	5
+path:map00130	Ubiquinone and other terpenoid-quinone biosynthesis	55	22	22	22	22	22	22	22	22	22	23	23	23
+path:map00140	Steroid hormone biosynthesis	48	2	2	2	2	2	2	1	1	1	1	1	2
+path:map00190	Oxidative phosphorylation	216	57	57	54	52	56	54	70	72	73	75	68	73
+path:map00195	Photosynthesis	63	8	8	8	8	8	8	10	11	10	16	12	10
+path:map00196	Photosynthesis - antenna proteins	42	0	0	0	0	0	0	1	0	0	0	0	0
+path:map00220	Arginine biosynthesis	58	28	27	27	28	26	27	27	29	28	29	29	29
+path:map00230	Purine metabolism	284	105	104	108	104	103	104	110	114	113	115	108	112
+path:map00232	Caffeine metabolism	16	0	0	0	0	0	0	1	0	1	1	1	1
+path:map00240	Pyrimidine metabolism	180	78	77	78	76	76	77	78	78	80	80	78	78
+path:map00250	"Alanine, aspartate and glutamate metabolism"	68	38	37	37	39	35	37	38	39	38	39	39	39
+path:map00253	Tetracycline biosynthesis	17	0	0	0	0	0	0	0	0	0	0	0	1
+path:map00260	"Glycine, serine and threonine metabolism"	98	48	48	48	48	48	48	51	52	49	49	50	52
+path:map00261	Monobactam biosynthesis	28	9	8	9	9	8	9	9	10	9	10	10	10
+path:map00270	Cysteine and methionine metabolism	109	50	50	51	49	50	50	52	55	53	55	54	55
+path:map00280	"Valine, leucine and isoleucine degradation"	69	24	24	23	22	22	22	27	28	29	28	30	30
+path:map00281	Geraniol degradation	15	5	5	5	5	5	6	5	5	6	7	6	7
+path:map00290	"Valine, leucine and isoleucine biosynthesis"	19	13	13	13	13	13	13	14	14	15	14	15	15
+path:map00300	Lysine biosynthesis	45	20	21	21	20	20	20	21	21	21	21	22	21
+path:map00310	Lysine degradation	84	26	26	26	27	26	26	27	27	27	27	27	27
+path:map00311	Penicillin and cephalosporin biosynthesis	15	2	2	2	3	2	2	3	2	2	2	2	2
+path:map00330	Arginine and proline metabolism	104	49	49	49	48	49	49	47	48	48	48	48	52
+path:map00332	Carbapenem biosynthesis	19	2	2	2	2	2	2	2	2	2	2	2	2
+path:map00333	Prodigiosin biosynthesis	20	3	3	3	3	3	3	3	3	3	3	3	3
+path:map00340	Histidine metabolism	46	21	22	22	22	22	21	22	21	22	21	22	24
+path:map00350	Tyrosine metabolism	75	27	27	28	27	27	27	27	28	30	29	29	32
+path:map00360	Phenylalanine metabolism	78	38	38	38	35	38	37	35	34	34	37	38	40
+path:map00361	Chlorocyclohexane and chlorobenzene degradation	39	5	5	5	5	4	4	3	4	6	4	4	7
+path:map00362	Benzoate degradation	103	32	32	32	32	32	31	26	26	36	33	33	35
+path:map00364	Fluorobenzoate degradation	18	9	9	9	9	9	9	4	4	6	6	7	7
+path:map00380	Tryptophan metabolism	73	13	13	14	13	13	13	22	20	20	21	22	22
+path:map00400	"Phenylalanine, tyrosine and tryptophan biosynthesis"	72	33	33	33	32	32	32	33	34	34	33	35	35
+path:map00401	Novobiocin biosynthesis	30	7	7	7	7	7	7	7	8	7	7	7	8
+path:map00405	Phenazine biosynthesis	16	2	2	2	2	2	2	2	2	3	4	3	2
+path:map00410	beta-Alanine metabolism	43	18	18	18	19	18	18	18	19	18	18	21	19
+path:map00430	Taurine and hypotaurine metabolism	24	11	11	11	12	10	11	10	12	11	13	12	14
+path:map00440	Phosphonate and phosphinate metabolism	42	14	13	14	13	14	13	8	12	10	11	11	13
+path:map00450	Selenocompound metabolism	29	20	19	20	20	19	20	19	21	18	20	20	21
+path:map00460	Cyanoamino acid metabolism	35	7	7	7	7	7	7	7	7	7	8	7	7
+path:map00471	D-Glutamine and D-glutamate metabolism	7	6	5	5	5	5	5	5	5	5	5	5	5
+path:map00472	D-Arginine and D-ornithine metabolism	8	5	5	5	5	5	5	5	5	5	4	5	5
+path:map00473	D-Alanine metabolism	5	5	5	5	4	4	4	5	5	4	5	4	5
+path:map00480	Glutathione metabolism	46	18	18	18	18	18	18	18	18	18	18	18	18
+path:map00500	Starch and sucrose metabolism	112	56	56	58	57	56	57	61	63	61	63	60	70
+path:map00510	N-Glycan biosynthesis	43	0	0	0	0	0	0	0	0	1	0	0	1
+path:map00511	Other glycan degradation	19	12	12	12	12	11	11	11	9	10	11	9	12
+path:map00513	Various types of N-glycan biosynthesis	51	1	1	1	1	1	1	1	1	1	1	1	1
+path:map00514	Other types of O-glycan biosynthesis	26	1	1	1	1	1	1	1	1	1	0	1	1
+path:map00515	Mannose type O-glycan biosynthesis	21	1	1	1	1	1	1	1	1	1	0	1	1
+path:map00520	Amino sugar and nucleotide sugar metabolism	156	74	73	77	73	74	74	77	77	73	77	77	81
+path:map00521	Streptomycin biosynthesis	18	8	8	9	8	8	8	9	9	8	9	9	10
+path:map00523	Polyketide sugar unit biosynthesis	57	4	4	4	4	4	4	4	4	5	4	4	4
+path:map00524	"Neomycin, kanamycin and gentamicin biosynthesis"	57	1	1	1	1	1	1	1	1	1	1	1	2
+path:map00525	Acarbose and validamycin biosynthesis	26	2	2	2	2	2	2	2	2	2	2	2	2
+path:map00531	Glycosaminoglycan degradation	15	5	5	5	4	5	4	5	4	4	4	4	5
+path:map00540	Lipopolysaccharide biosynthesis	40	30	29	29	29	30	29	32	32	33	33	32	33
+path:map00550	Peptidoglycan biosynthesis	47	33	33	33	31	30	29	34	37	42	38	34	38
+path:map00561	Glycerolipid metabolism	86	27	27	27	27	26	27	27	24	26	24	27	26
+path:map00562	Inositol phosphate metabolism	74	13	13	13	13	13	13	17	15	16	16	16	16
+path:map00564	Glycerophospholipid metabolism	110	33	32	33	32	33	31	32	32	34	32	32	32
+path:map00565	Ether lipid metabolism	30	3	3	3	3	3	3	3	1	2	2	2	2
+path:map00571	Lipoarabinomannan (LAM) biosynthesis	13	0	0	0	0	0	0	0	2	2	0	2	2
+path:map00572	Arabinogalactan biosynthesis - Mycobacterium	12	1	1	1	1	1	1	1	3	1	2	1	3
+path:map00590	Arachidonic acid metabolism	44	2	2	2	2	2	2	2	2	2	2	2	2
+path:map00591	Linoleic acid metabolism	25	1	1	1	1	1	1	1	1	1	2	2	2
+path:map00592	alpha-Linolenic acid metabolism	25	2	2	2	2	2	2	2	2	2	3	2	2
+path:map00600	Sphingolipid metabolism	41	6	6	6	6	6	6	6	5	5	5	6	6
+path:map00601	Glycosphingolipid biosynthesis - lacto and neolacto series	27	0	0	0	0	0	0	0	0	0	0	0	1
+path:map00603	Glycosphingolipid biosynthesis - globo and isoglobo series	15	3	3	3	3	3	3	3	3	3	3	3	3
+path:map00604	Glycosphingolipid biosynthesis - ganglio series	14	1	1	1	1	1	1	1	1	1	1	1	1
+path:map00620	Pyruvate metabolism	102	75	76	75	72	73	74	73	74	76	74	75	76
+path:map00621	Dioxin degradation	31	4	4	4	4	4	4	6	4	5	4	4	5
+path:map00622	Xylene degradation	34	11	11	11	11	10	10	9	7	10	10	11	11
+path:map00623	Toluene degradation	46	5	5	5	5	5	5	2	3	6	4	4	6
+path:map00624	Polycyclic aromatic hydrocarbon degradation	41	2	2	2	2	2	2	3	2	2	2	2	2
+path:map00625	Chloroalkane and chloroalkene degradation	43	10	10	10	10	10	10	8	10	11	11	11	13
+path:map00626	Naphthalene degradation	29	5	5	5	5	5	5	5	5	5	5	5	5
+path:map00627	Aminobenzoate degradation	76	16	16	16	16	15	16	16	16	18	19	19	18
+path:map00630	Glyoxylate and dicarboxylate metabolism	101	53	54	53	52	53	52	55	56	57	56	57	54
+path:map00633	Nitrotoluene degradation	19	10	10	10	9	10	9	10	10	10	10	10	10
+path:map00640	Propanoate metabolism	103	61	61	60	57	59	57	61	64	65	64	68	67
+path:map00642	Ethylbenzene degradation	16	1	1	1	1	1	1	1	1	1	1	1	1
+path:map00643	Styrene degradation	25	8	8	8	8	7	7	8	9	9	11	8	12
+path:map00650	Butanoate metabolism	93	57	57	58	57	57	56	60	63	61	64	61	61
+path:map00660	C5-Branched dibasic acid metabolism	29	13	13	13	13	13	13	12	12	16	13	14	13
+path:map00670	One carbon pool by folate	36	17	17	18	17	17	17	17	17	17	17	17	18
+path:map00680	Methane metabolism	181	45	44	45	42	44	44	48	47	55	47	48	50
+path:map00710	Carbon fixation in photosynthetic organisms	36	21	21	22	21	21	21	22	22	22	22	21	22
+path:map00720	Carbon fixation pathways in prokaryotes	103	57	57	56	53	54	55	53	54	54	54	54	55
+path:map00730	Thiamine metabolism	35	18	18	18	18	18	18	21	21	21	20	21	22
+path:map00740	Riboflavin metabolism	46	18	18	18	17	17	17	22	22	21	22	20	22
+path:map00750	Vitamin B6 metabolism	23	10	11	11	10	10	10	11	11	11	11	11	11
+path:map00760	Nicotinate and nicotinamide metabolism	89	31	31	31	29	29	29	32	31	30	31	31	31
+path:map00770	Pantothenate and CoA biosynthesis	38	24	24	24	22	22	23	24	23	25	22	25	24
+path:map00780	Biotin metabolism	23	14	14	14	14	14	14	16	15	15	15	15	17
+path:map00785	Lipoic acid metabolism	4	3	3	3	3	3	3	3	3	3	3	3	3
+path:map00790	Folate biosynthesis	80	31	31	31	31	31	31	32	32	33	33	34	34
+path:map00791	Atrazine degradation	15	6	6	6	6	6	6	4	6	5	6	5	5
+path:map00830	Retinol metabolism	48	3	3	3	3	3	3	2	3	4	3	3	4
+path:map00860	Porphyrin and chlorophyll metabolism	129	50	50	51	51	49	49	53	57	52	52	50	55
+path:map00900	Terpenoid backbone biosynthesis	58	20	20	20	20	18	19	19	19	20	18	21	22
+path:map00901	Indole alkaloid biosynthesis	28	0	0	1	0	0	0	0	0	0	0	0	0
+path:map00903	Limonene and pinene degradation	12	5	5	5	5	5	5	5	5	5	5	5	5
+path:map00906	Carotenoid biosynthesis	49	2	2	2	0	1	1	3	5	5	4	7	3
+path:map00908	Zeatin biosynthesis	8	1	1	1	1	1	1	1	1	1	1	1	1
+path:map00909	Sesquiterpenoid and triterpenoid biosynthesis	73	0	0	0	0	0	0	1	1	1	1	0	1
+path:map00910	Nitrogen metabolism	65	32	32	32	32	31	31	25	32	32	34	29	33
+path:map00920	Sulfur metabolism	102	43	42	43	43	42	43	42	46	44	44	45	47
+path:map00930	Caprolactam degradation	22	6	6	6	6	6	7	5	6	5	4	5	6
+path:map00940	Phenylpropanoid biosynthesis	35	4	4	4	4	4	4	4	4	4	4	4	4
+path:map00944	Flavone and flavonol biosynthesis	15	1	1	1	1	1	1	1	1	1	1	1	1
+path:map00950	Isoquinoline alkaloid biosynthesis	59	5	5	6	5	5	5	7	6	6	5	7	7
+path:map00960	"Tropane, piperidine and pyridine alkaloid biosynthesis"	26	8	8	8	8	8	8	7	7	7	7	7	7
+path:map00965	Betalain biosynthesis	7	1	1	2	1	1	1	2	2	1	1	2	2
+path:map00966	Glucosinolate biosynthesis	20	1	1	1	1	1	1	1	1	1	1	1	1
+path:map00970	Aminoacyl-tRNA biosynthesis	64	32	32	31	31	31	31	30	30	31	31	31	31
+path:map00980	Metabolism of xenobiotics by cytochrome P450	33	4	4	4	4	4	4	3	4	4	4	4	4
+path:map00981	Insect hormone biosynthesis	18	1	1	1	1	1	1	1	1	1	1	1	1
+path:map00982	Drug metabolism - cytochrome P450	24	4	4	4	4	4	4	4	4	5	4	5	5
+path:map00983	Drug metabolism - other enzymes	31	14	14	14	14	14	14	15	14	14	15	16	14
+path:map00984	Steroid degradation	15	0	0	0	0	0	0	0	0	1	1	0	2
+path:map00999	Biosynthesis of secondary metabolites - unclassified	62	1	1	1	1	1	1	8	9	10	10	8	9
+path:map01040	Biosynthesis of unsaturated fatty acids	32	3	3	3	3	3	3	4	4	4	4	5	3
+path:map01051	Biosynthesis of ansamycins	32	1	1	1	1	1	1	1	1	1	1	1	1
+path:map01053	Biosynthesis of siderophore group nonribosomal peptides	30	13	13	13	13	13	13	13	15	15	14	14	15
+path:map01054	Nonribosomal peptide structures	54	1	1	1	1	1	1	11	12	11	12	11	11
+path:map01055	Biosynthesis of vancomycin group antibiotics	29	1	1	1	1	1	1	1	1	1	1	1	1
+path:map01062	Biosynthesis of terpenoids and steroids	1	1	1	1	0	0	0	1	1	1	1	1	1
+path:map01100	Metabolic pathways	2928	1011	1005	1014	992	988	993	1046	1067	1084	1080	1071	1123
+path:map01110	Biosynthesis of secondary metabolites	1154	378	378	382	370	370	371	387	394	391	394	396	406
+path:map01120	Microbial metabolism in diverse environments	1149	400	400	400	390	389	394	387	403	419	421	411	432
+path:map01130	Biosynthesis of antibiotics	1004	261	260	262	256	254	257	269	275	279	281	282	288
+path:map01200	Carbon metabolism	349	154	155	154	150	150	154	156	159	166	159	160	163
+path:map01210	2-Oxocarboxylic acid metabolism	82	31	31	31	31	31	31	31	31	32	31	32	32
+path:map01212	Fatty acid metabolism	79	23	23	23	23	23	23	27	28	28	28	28	29
+path:map01220	Degradation of aromatic compounds	210	44	44	43	41	44	43	36	35	39	41	41	47
+path:map01230	Biosynthesis of amino acids	230	146	147	148	143	144	147	148	153	150	152	153	154
+path:map01501	beta-Lactam resistance	112	34	34	35	33	33	35	35	34	35	33	35	36
+path:map01502	Vancomycin resistance	21	15	15	15	15	15	14	13	14	14	11	13	12
+path:map01503	Cationic antimicrobial peptide (CAMP) resistance	54	39	39	39	38	37	37	40	41	42	39	38	41
+path:map01523	Antifolate resistance	26	5	5	5	5	5	5	5	5	5	5	5	5
+path:map01524	Platinum drug resistance	45	2	2	2	2	2	2	2	2	2	2	2	2
+path:map02010	ABC transporters	491	293	290	291	283	285	287	284	298	299	290	296	311
+path:map02020	Two-component system	481	225	221	221	214	212	208	249	265	274	257	264	285
+path:map02024	Quorum sensing	287	93	92	93	88	86	86	108	106	116	114	109	124
+path:map02025	Biofilm formation - Pseudomonas aeruginosa	89	20	20	21	20	20	20	21	21	21	24	25	24
+path:map02026	Biofilm formation - Escherichia coli	61	50	50	50	50	50	48	49	49	49	49	50	49
+path:map02030	Bacterial chemotaxis	26	25	24	24	24	24	24	25	24	26	25	25	25
+path:map02040	Flagellar assembly	40	38	38	38	38	38	38	38	38	37	34	38	37
+path:map02060	Phosphotransferase system (PTS)	91	82	82	83	81	81	81	84	87	84	86	86	86
+path:map03008	Ribosome biogenesis in eukaryotes	82	2	2	2	2	2	2	2	2	4	2	3	2
+path:map03010	Ribosome	143	55	55	55	55	55	55	55	55	55	55	57	55
+path:map03013	RNA transport	138	3	3	3	3	3	3	3	3	4	3	3	3
+path:map03015	mRNA surveillance pathway	59	0	0	0	0	0	0	0	0	1	0	0	0
+path:map03018	RNA degradation	79	19	19	19	19	19	19	19	19	19	19	19	19
+path:map03020	RNA polymerase	51	6	5	6	4	5	5	5	6	7	6	5	5
+path:map03022	Basal transcription factors	35	1	0	1	0	0	0	1	0	2	0	1	1
+path:map03030	DNA replication	60	18	18	18	18	17	17	20	20	21	20	20	19
+path:map03040	Spliceosome	122	1	0	0	0	0	0	0	0	0	0	0	0
+path:map03050	Proteasome	48	0	0	0	0	0	0	0	0	3	0	1	1
+path:map03060	Protein export	39	20	20	20	20	20	20	20	20	20	20	20	20
+path:map03070	Bacterial secretion system	74	46	46	45	45	46	46	41	44	41	39	40	42
+path:map03320	PPAR signaling pathway	61	3	3	3	3	3	3	4	4	3	4	4	4
+path:map03410	Base excision repair	42	17	17	17	16	17	16	16	17	18	16	17	16
+path:map03420	Nucleotide excision repair	47	8	7	8	7	7	7	8	8	8	8	8	8
+path:map03430	Mismatch repair	44	23	23	23	23	23	23	24	24	24	24	24	23
+path:map03440	Homologous recombination	72	28	28	28	28	28	28	29	28	28	28	28	28
+path:map03450	Non-homologous end-joining	19	1	1	1	1	1	1	2	2	2	2	2	1
+path:map04011	MAPK signaling pathway - yeast	90	1	1	1	1	1	1	1	1	1	1	1	1
+path:map04013	MAPK signaling pathway - fly	84	1	1	1	1	1	1	1	1	1	1	1	1
+path:map04016	MAPK signaling pathway - plant	54	3	3	3	3	3	3	3	3	3	3	3	3
+path:map04024	cAMP signaling pathway	147	0	0	0	0	0	0	0	0	0	1	0	0
+path:map04066	HIF-1 signaling pathway	72	4	4	4	4	3	4	4	4	4	4	4	5
+path:map04068	FoxO signaling pathway	102	3	3	3	3	3	3	3	3	3	3	3	3
+path:map04070	Phosphatidylinositol signaling system	55	3	3	3	3	3	3	3	3	3	3	3	3
+path:map04072	Phospholipase D signaling pathway	102	1	1	1	1	1	1	1	1	1	1	1	1
+path:map04080	Neuroactive ligand-receptor interaction	247	1	1	1	1	1	1	1	1	1	1	1	1
+path:map04112	Cell cycle - Caulobacter	31	11	12	11	11	11	11	11	11	13	11	12	11
+path:map04113	Meiosis - yeast	99	0	0	0	0	0	0	1	1	1	2	2	2
+path:map04122	Sulfur relay system	28	19	19	19	18	18	18	18	18	18	18	18	19
+path:map04138	Autophagy - yeast	77	1	1	1	1	1	1	1	1	2	1	1	1
+path:map04140	Autophagy - animal	100	0	0	0	0	0	0	0	0	1	0	0	0
+path:map04141	Protein processing in endoplasmic reticulum	140	2	2	2	2	2	2	2	2	3	2	3	3
+path:map04142	Lysosome	103	7	7	7	6	6	5	6	3	4	5	3	7
+path:map04144	Endocytosis	164	0	0	0	0	0	0	0	0	0	0	0	1
+path:map04146	Peroxisome	73	9	9	9	9	8	8	9	7	8	8	9	9
+path:map04151	PI3K-Akt signaling pathway	261	2	2	2	2	2	2	2	2	2	2	2	2
+path:map04152	AMPK signaling pathway	84	3	3	3	3	3	3	4	3	4	3	5	3
+path:map04210	Apoptosis	109	1	1	1	1	1	1	0	1	1	1	1	1
+path:map04211	Longevity regulating pathway	68	2	2	2	2	2	2	2	2	2	2	2	2
+path:map04212	Longevity regulating pathway - worm	55	5	5	5	5	5	5	6	5	5	5	5	5
+path:map04213	Longevity regulating pathway - multiple species	58	4	4	4	4	4	4	4	4	4	5	5	5
+path:map04214	Apoptosis - fly	56	2	2	2	2	2	2	2	2	2	2	2	2
+path:map04216	Ferroptosis	33	2	2	2	2	2	2	2	2	2	2	2	2
+path:map04217	Necroptosis	96	5	5	5	5	5	5	5	5	5	5	5	5
+path:map04260	Cardiac muscle contraction	60	1	1	0	0	1	0	0	1	1	1	1	1
+path:map04612	Antigen processing and presentation	41	1	1	1	1	1	1	1	1	1	1	1	1
+path:map04614	Renin-angiotensin system	22	0	0	0	0	0	0	1	0	1	1	2	1
+path:map04621	NOD-like receptor signaling pathway	136	4	4	4	4	4	4	4	4	4	4	4	4
+path:map04622	RIG-I-like receptor signaling pathway	53	1	1	1	1	1	1	1	1	1	1	1	1
+path:map04626	Plant-pathogen interaction	78	6	6	6	6	6	6	5	6	6	6	6	6
+path:map04657	IL-17 signaling pathway	81	1	1	1	1	1	1	1	1	1	1	1	1
+path:map04659	Th17 cell differentiation	85	1	1	1	1	1	1	1	1	1	1	1	1
+path:map04714	Thermogenesis	185	4	4	3	2	3	3	4	5	5	4	5	4
+path:map04724	Glutamatergic synapse	85	2	2	2	2	2	2	2	2	2	2	2	2
+path:map04725	Cholinergic synapse	90	0	0	0	0	0	0	1	1	1	1	1	1
+path:map04726	Serotonergic synapse	85	0	0	1	0	0	0	1	0	1	0	1	1
+path:map04727	GABAergic synapse	65	3	3	3	3	3	3	3	3	3	3	3	3
+path:map04728	Dopaminergic synapse	83	0	0	1	0	0	0	1	0	1	0	1	1
+path:map04910	Insulin signaling pathway	87	4	4	4	4	4	4	4	4	4	4	4	5
+path:map04914	Progesterone-mediated oocyte maturation	64	1	1	1	1	1	1	1	1	1	1	1	1
+path:map04915	Estrogen signaling pathway	76	1	1	1	1	1	1	1	1	1	1	1	1
+path:map04916	Melanogenesis	67	0	0	0	0	0	0	1	1	0	0	1	1
+path:map04917	Prolactin signaling pathway	57	1	1	1	1	1	1	1	1	1	1	1	1
+path:map04918	Thyroid hormone synthesis	52	2	2	2	2	2	2	2	2	2	2	2	2
+path:map04919	Thyroid hormone signaling pathway	88	0	0	0	0	0	0	1	0	1	1	1	0
+path:map04920	Adipocytokine signaling pathway	53	2	2	2	2	2	2	2	2	2	2	2	2
+path:map04921	Oxytocin signaling pathway	111	0	0	0	0	0	0	0	0	1	0	1	0
+path:map04922	Glucagon signaling pathway	55	7	7	7	7	6	7	7	7	7	7	7	7
+path:map04924	Renin secretion	46	0	0	0	0	0	0	0	0	0	0	1	0
+path:map04930	Type II diabetes mellitus	37	1	1	1	1	1	1	1	1	1	1	1	2
+path:map04931	Insulin resistance	73	3	3	3	3	3	3	3	3	3	3	3	4
+path:map04932	Non-alcoholic fatty liver disease (NAFLD)	124	1	1	0	0	1	0	0	1	2	1	1	1
+path:map04934	Cushing syndrome	121	1	1	1	1	1	1	1	1	1	1	1	1
+path:map04940	Type I diabetes mellitus	25	2	2	2	2	2	2	2	2	2	2	2	2
+path:map04964	Proximal tubule bicarbonate reclamation	14	3	3	3	3	3	3	3	3	3	3	3	3
+path:map04973	Carbohydrate digestion and absorption	21	1	1	1	1	1	1	1	1	1	1	1	2
+path:map04974	Protein digestion and absorption	56	0	0	0	0	0	0	0	0	1	0	0	1
+path:map04976	Bile secretion	59	0	0	0	0	0	0	0	0	0	0	1	0
+path:map04978	Mineral absorption	31	1	1	1	1	1	1	1	1	1	1	1	1
+path:map04979	Cholesterol metabolism	49	1	1	1	1	1	1	1	1	1	1	1	1
+path:map05010	Alzheimer disease	143	3	3	2	1	2	2	2	3	3	2	3	2
+path:map05012	Parkinson disease	122	2	2	1	0	1	1	1	2	2	1	2	1
+path:map05014	Amyotrophic lateral sclerosis (ALS)	43	2	2	2	2	2	2	2	2	2	2	2	2
+path:map05016	Huntington disease	149	4	4	3	2	3	3	3	4	5	3	4	3
+path:map05020	Prion diseases	30	1	1	1	1	1	1	1	1	1	1	1	1
+path:map05030	Cocaine addiction	38	0	0	1	0	0	0	1	0	1	0	1	1
+path:map05031	Amphetamine addiction	45	0	0	1	0	0	0	1	0	1	0	1	1
+path:map05034	Alcoholism	84	0	0	1	0	0	0	1	0	1	0	1	1
+path:map05100	Bacterial invasion of epithelial cells	73	4	4	4	3	4	3	2	2	3	1	1	2
+path:map05110	Vibrio cholerae infection	48	2	2	2	2	2	2	2	2	2	2	3	2
+path:map05111	Biofilm formation - Vibrio cholerae	107	36	36	36	36	36	36	33	34	33	34	40	36
+path:map05120	Epithelial cell signaling in Helicobacter pylori infection	90	2	2	2	2	2	3	2	3	3	3	2	3
+path:map05131	Shigellosis	64	2	2	2	2	2	2	1	1	2	0	0	0
+path:map05132	Salmonella infection	82	9	9	9	9	9	9	8	8	9	7	7	7
+path:map05133	Pertussis	79	7	7	7	7	7	7	7	8	7	6	6	7
+path:map05134	Legionellosis	68	4	4	4	4	4	4	4	4	4	4	5	6
+path:map05142	Chagas disease (American trypanosomiasis)	82	1	1	1	1	1	1	1	1	1	1	2	1
+path:map05143	African trypanosomiasis	37	2	2	2	2	2	2	1	2	3	2	2	2
+path:map05146	Amoebiasis	81	2	2	2	2	2	2	2	2	2	2	2	2
+path:map05150	Staphylococcus aureus infection	66	6	6	6	5	4	4	6	7	7	7	6	8
+path:map05152	Tuberculosis	131	3	3	3	3	3	3	4	3	3	3	3	3
+path:map05160	Hepatitis C	111	0	0	0	0	0	0	0	0	1	0	0	0
+path:map05162	Measles	112	0	0	0	0	0	0	0	0	1	0	0	0
+path:map05164	Influenza A	124	0	0	0	0	0	0	0	0	1	0	0	0
+path:map05165	Human papillomavirus infection	231	1	1	1	1	1	1	1	1	2	1	1	1
+path:map05166	Human T-cell leukemia virus 1 infection	180	1	1	1	1	1	1	1	1	2	1	1	1
+path:map05168	Herpes simplex infection	147	0	0	0	0	0	0	0	0	2	0	0	0
+path:map05200	Pathways in cancer	409	4	4	4	4	4	4	4	4	4	4	4	4
+path:map05203	Viral carcinogenesis	174	1	1	1	1	1	1	1	1	3	1	2	1
+path:map05204	Chemical carcinogenesis	36	2	2	2	2	2	2	2	2	2	2	2	2
+path:map05205	Proteoglycans in cancer	162	1	1	1	1	1	1	1	1	1	1	1	1
+path:map05206	MicroRNAs in cancer	232	2	2	2	2	2	2	2	2	2	2	2	2
+path:map05211	Renal cell carcinoma	56	1	1	1	1	1	1	1	1	1	1	1	1
+path:map05215	Prostate cancer	79	1	1	1	1	1	1	1	1	1	1	1	1
+path:map05219	Bladder cancer	38	1	1	1	1	1	1	1	1	1	1	1	1
+path:map05225	Hepatocellular carcinoma	114	2	2	2	2	2	2	2	2	2	2	2	2
+path:map05230	Central carbon metabolism in cancer	46	7	7	7	7	6	7	7	7	7	7	7	8
+path:map05231	Choline metabolism in cancer	61	2	1	2	1	2	1	2	2	2	2	2	3
+path:map05340	Primary immunodeficiency	35	2	2	2	2	2	2	2	2	2	2	2	2
+path:map05410	Hypertrophic cardiomyopathy (HCM)	73	0	0	0	0	0	0	0	0	0	0	1	0
+path:map05418	Fluid shear stress and atherosclerosis	98	5	5	5	5	5	5	5	5	5	5	5	5
